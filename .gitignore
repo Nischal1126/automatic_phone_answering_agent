@@ -1,0 +1,12 @@
+venv/
+data_prep/*
+!data_prep/chroma_db/
+!data_prep/doai_output/
+!data_prep/doai_output_chunks
+
+.env
+.env.local
+livekit/.env.local
+*.env
+venv/
+__pycache__/

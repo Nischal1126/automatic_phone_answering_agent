@@ -1,0 +1,26 @@
+{
+  "file": "Eligibility_criteria_info.md",
+  "frontmatter": {
+    "title": "Eligibility \u2014 Kathmandu University",
+    "source_type": "KU website",
+    "degree_level": "Undergraduate and Graduate",
+    "last_updated": "2026-07-25",
+    "category": "Eligibility for Admission in BTech/Undergraduate and Mtech/Postgraduate"
+  },
+  "chunk_count": 2,
+  "warning": null,
+  "chunks": [
+    {
+      "index": 0,
+      "heading": "Eligibility or admmission criteria for Admission in BTech / Undergraduate",
+      "char_count": 416,
+      "text": "Eligibility or admission criteria for Admission in BTech / Undergraduate\nTo be fully eligible for admission, candidates must have passed 10+2 level (or equivalent) with a minimum aggregate GPA of 2.0 (aggregate 50% in percentage scale) with subjects PCM (Physics, Chemistry and Mathematics) or PMCs (Physics, Mathematics and Computer Science) and must have appeared in Kathmandu University Common Admission Test (KUCAT-CBT 2026)."
+    },
+    {
+      "index": 1,
+      "heading": "Eligibility or admmission criteria for Admission in MTech / Graduate",
+      "char_count": 450,
+      "text": "Eligibility  or admission criteria for Admission in MTech / Graduate\nCandidates with score of at least 50% in aggregate or CGPA 2.0 out of 4.0 grading system from any recognized institution, and  Undergraduate in Engineering / Technology / Architecture / Computer Application (with honors), or Total of at least 16 years of education with science background, or M.Sc. in Physics, Chemistry, Mathematics, Statistics or any other related field are eligible to apply."
+    }
+  ]
+}

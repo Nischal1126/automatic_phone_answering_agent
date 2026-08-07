@@ -1,0 +1,38 @@
+{
+  "file": "hostel_info.md",
+  "frontmatter": {
+    "title": "Hostel Kathmandu University",
+    "source_type": "KU website",
+    "degree_level": "Undergraduate",
+    "last_updated": "2026-07-25",
+    "category": "Hostel"
+  },
+  "chunk_count": 3,
+  "warning": null,
+  "chunks": [
+    {
+      "index": 0,
+      "heading": "Student Hostels for national students",
+      "char_count": 332,
+      "text": "Student Hostels for national students\nKathmandu University has several hostels, two in the main premises, one for boys and the other for girls. There are also graduate hostels for both boys and girls. Each hostel is secured by guards and is provided with an internet facility and hot water (solar). All the rooms are well furnished."
+    },
+    {
+      "index": 1,
+      "heading": "priorities",
+      "char_count": 145,
+      "text": "priorities\nThe university provides hostels to the students (both boys and girls). Priorities are given to the students from outside the locality."
+    },
+    {
+      "index": 2,
+      "heading": "Hostel for international students",
+      "char_count": 141,
+      "text": "Hostel for international students\nInternational students are provided single accommodation at the guest house within the university premises."
+    },
+    {
+    "index": 3,
+    "heading": "Hostel application process",
+    "char_count": 373,
+    "text": "Hostel application process\nStudents admitted to a BTech program who wish to stay in a university hostel should complete the hostel accommodation form published on the Kathmandu University website after confirming their admission. Applicants are required to submit the necessary documents, including the admission receipt and citizenship certificate. Shortlisted applicants may also be required to attend a hostel interview before accommodation is allocated."
+  }
+  ]
+}

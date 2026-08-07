@@ -1,0 +1,38 @@
+{
+  "file": "canteen_info.md",
+  "frontmatter": {
+    "title": "Canteen - Kathmandu University",
+    "source_type": "KU website",
+    "degree_level": "Graduate and Postgraduate",
+    "last_updated": "2026-07-25",
+    "category": "campus_services"
+  },
+  "chunk_count": 4,
+  "warning": null,
+  "chunks": [
+    {
+      "index": 0,
+      "heading": "Overview",
+      "char_count": 421,
+      "text": "Overview\nAll schools under KU have a canteen that provides hygienic and nutritious food at an affordable price. They have a spacious setting and offer food only through the balance on the identity cards and not through cash. KU Canteen, KU Cafe, and KU Mesh are the three major destinations to eat on the main campus. They offer a wide range of food items, freshly cooked and prepared, and with attention paid to quality."
+    },
+    {
+      "index": 1,
+      "heading": "KU cafe",
+      "char_count": 167,
+      "text": "KU cafe\nKU Cafe is mainly for having tea, coffee, bakery items, and drinks. It has both indoor and outdoor seating arrangements where the students can sit and discuss."
+    },
+    {
+      "index": 2,
+      "heading": "Canteen Meal Times",
+      "char_count": 264,
+      "text": "Canteen Meal Times\nBreakfast is served from 8:00 AM to 10:00 AM at KU Canteen. A meal service runs from 11:00 AM to 12:30 PM at both KU Canteen and KU Mesh. Lunch is served from 1:00 PM to 3:00 PM at KU Canteen. Dinner is served from 6:00 PM to 7:00 PM at KU Mesh."
+    },
+    {
+      "index": 3,
+      "heading": "Payment",
+      "char_count": 79,
+      "text": "Payment\nThe payment for the Canteen can only be done using the university card."
+    }
+  ]
+}

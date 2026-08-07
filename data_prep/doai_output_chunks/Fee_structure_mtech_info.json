@@ -1,0 +1,33 @@
+{
+  "file": "Fee_structure_mtech_info.md",
+  "frontmatter": {
+    "title": "Fee Structure \u2014 Kathmandu University",
+    "source_type": "KU website",
+    "degree_level": "Graduate",
+    "last_updated": "2026-07-25",
+    "academic_year": "2026/2027",
+    "category": "Fee Structure"
+  },
+  "chunk_count": 3,
+  "warning": null,
+  "chunks": [
+    {
+      "index": 0,
+      "heading": "For Nepalese Students > Fees",
+      "char_count": 318,
+      "text": "For Nepalese Students > Fees\nTotal course fee for the two year (4 semesters) study period is NRs 395,000/- (ordinary Nepalese student fee, which excludes NRs 10,000/- caution money and NRs 1000/- per year medical insurance) for ordinary Nepalese students. The fee for sponsored candidate is 1.5 times the ordinary fee."
+    },
+    {
+      "index": 1,
+      "heading": "For SAARC country international students",
+      "char_count": 284,
+      "text": "For SAARC country international students\nFee for SAARC country international candidate is 1.5 times the regular fee and for other country is 2.0 times the regular fee. Extension of period of study may subject to requirement of payment of additional fees for the extended study period."
+    },
+    {
+      "index": 2,
+      "heading": "Payment Information:",
+      "char_count": 227,
+      "text": "Payment Information:\nFee to be paid at the time of admission for ordinary Nepalese student is NRs. 136,000/- that includes first installment of first semester fee. Rest of the fee shall be paid in two installments per semester."
+    }
+  ]
+}

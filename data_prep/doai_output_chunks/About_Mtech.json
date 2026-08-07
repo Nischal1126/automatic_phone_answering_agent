@@ -1,0 +1,39 @@
+{
+  "file": "About_Mtech.md",
+  "frontmatter": {
+    "title": "MTech in Artificial Intelligence - Program Overview",
+    "source_type": "KU website",
+    "category": "academic_program",
+    "department": "Artificial Intelligence",
+    "degree_level": "PostGraduate",
+    "last_updated": "2026-07-25"
+  },
+  "chunk_count": 4,
+  "warning": null,
+  "chunks": [
+    {
+      "index": 0,
+      "heading": "Program Overview",
+      "char_count": 189,
+      "text": "Program Overview\nMaster of Technology in Artificial Intelligence (MTech in AI) program of Kathmandu University is a 2 years (4 semesters) full-time study program that will run in Kathmandu."
+    },
+    {
+      "index": 1,
+      "heading": "Located at",
+      "char_count": 20,
+      "text": "Located at\nKathmandu"
+    },
+    {
+      "index": 2,
+      "heading": "Objectives",
+      "char_count": 623,
+      "text": "Objectives\nMasters in Artificial Intelligence program of Kathmandu University aims to convey the body of skills, information, and practices connected with advanced computation, data science, and artificial intelligence (AI), which will help to open up new opportunities both locally and globally. \n\nIn particular, Masters in Artificial Intelligence program covers neural networks, fuzzy systems, and the use of evolutionary computation to create machines. The curriculum of this program mainly includes machine learning, neural network, big data analytics, information retrieval, fuzzy system, and evolutionary computation."
+    },
+    {
+      "index": 3,
+      "heading": "Objectives > Career Prospects",
+      "char_count": 411,
+      "text": "Objectives > Career Prospects\nThe program aims to produce graduates who are interested to do research and advance their career in the field of Artificial Intelligence. After the completion of the degree, graduates will be able to perform various jobs and research activities such as:\n  * Computational Linguist,\n  * AI Specialist,\n  * Machine Learning Engineer,\n  * Computer Vision Engineer,\n  * Data Scientist."
+    }
+  ]
+}

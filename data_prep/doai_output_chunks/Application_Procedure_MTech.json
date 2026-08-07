@@ -1,0 +1,27 @@
+{
+  "file": "Application_Procedure_MTech.md",
+  "frontmatter": {
+    "Title": "Graduate Admission - Application Procedure 2026/2027",
+    "source_type": "edusanjal website",
+    "degree_level": "Graduate",
+    "extracted_on": "2026-07-25",
+    "academic_year": "2026/2027",
+    "Category": "Admission for Undergraduate"
+  },
+  "chunk_count": 2,
+  "warning": null,
+  "chunks": [
+    {
+      "index": 0,
+      "heading": "Who can apply?",
+      "char_count": 78,
+      "text": "Who can apply?\nThe admission is open for Nepalese as well as foreign students."
+    },
+    {
+      "index": 1,
+      "heading": "Admission requirement",
+      "char_count": 442,
+      "text": "Admission Test/ Interview:\nA written admission test of 1.5 hours would be conducted focusing on core computer subjects. The test would comprise both objective and subjective questions and would weigh 70% of marks. Only those securing a minimum of 40 marks in the written test would be selected for the interview. Successful candidates passing both the written test and the interview would be selected for admission on the basis of merit list."
+    }
+  ]
+}

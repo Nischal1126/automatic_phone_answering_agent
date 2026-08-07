@@ -1,0 +1,1011 @@
+[
+  {
+    "file": "About_btech.md",
+    "frontmatter": {
+      "title": "BTech in Artificial Intelligence - Program Overview",
+      "source_type": "KU website",
+      "category": "academic_program",
+      "department": "Artificial Intelligence",
+      "degree_level": "undergraduate",
+      "last_updated": "2026-07-25"
+    },
+    "chunk_count": 15,
+    "warning": null,
+    "chunks": [
+      {
+        "index": 0,
+        "heading": "Overview",
+        "char_count": 458,
+        "text": "Overview\nThe Bachelor of Technology (BTech) in Artificial Intelligence is an undergraduate engineering program that builds a strong foundation in computer science, mathematics, and core AI methods, focused on designing systems capable of human-like decision-making, learning, and problem-solving. The program combines theoretical understanding with the practical skills needed to design, develop, and deploy AI-based applications across different industries."
+      },
+      {
+        "index": 1,
+        "heading": "Located at",
+        "char_count": 34,
+        "text": "Located at\nKUAIC, Dhulikhel, Kavre"
+      },
+      {
+        "index": 2,
+        "heading": "Program Objectives",
+        "char_count": 641,
+        "text": "Program Objectives\nThe program aims to give students core knowledge of artificial intelligence, machine learning, deep learning, and data science, alongside a strong foundation in mathematics, programming, and algorithmic thinking. It exposes students to real-world AI applications in sectors like healthcare, agriculture, education, finance, robotics, natural language processing, and computer vision, and encourages innovation and entrepreneurship through project-based learning and industry collaboration. The overall goal is to prepare graduates for careers in AI research, development, and deployment, both in Nepal and internationally."
+      },
+      {
+        "index": 3,
+        "heading": "Core Course Areas",
+        "char_count": 213,
+        "text": "Core Course Areas\nThe program runs over 8 semesters, combining core engineering subjects with specialized AI courses to build technical fundamentals while introducing students to current developments in the field."
+      },
+      {
+        "index": 4,
+        "heading": "Core Course Areas > Programming and Software Development",
+        "char_count": 202,
+        "text": "Core Course Areas > Programming and Software Development\nStudents learn C, C++, and Python, along with Object-Oriented Programming, Data Structures and Algorithms, and Design and Analysis of Algorithms."
+      },
+      {
+        "index": 5,
+        "heading": "Core Course Areas > Mathematics for AI",
+        "char_count": 224,
+        "text": "Core Course Areas > Mathematics for AI\nCore mathematics courses include Calculus, Linear Algebra, Probability, Statistics, Numerical Methods, and Differential Equations, building the analytical foundation needed for AI work."
+      },
+      {
+        "index": 6,
+        "heading": "Core Course Areas > Machine Learning and Data Science",
+        "char_count": 229,
+        "text": "Core Course Areas > Machine Learning and Data Science\nCourses in Machine Learning, Advanced Machine Learning, Data Science, and Data Mining teach students how to train intelligent systems and extract insights from large datasets."
+      },
+      {
+        "index": 7,
+        "heading": "Core Course Areas > Computer Vision and Natural Language Processing",
+        "char_count": 248,
+        "text": "Core Course Areas > Computer Vision and Natural Language Processing\nStudents study AI fields dealing with images and language through courses in Pattern Recognition, Image Processing, Large Language Models, Deep Learning, and Information Retrieval."
+      },
+      {
+        "index": 8,
+        "heading": "Core Course Areas > Additional Technology Courses",
+        "char_count": 286,
+        "text": "Core Course Areas > Additional Technology Courses\nThe curriculum also includes Computer Networks and Cybersecurity, Embedded Systems (for implementing AI in hardware), Internet of Things and Blockchain, and Fuzzy Optimization, a method for handling uncertainty in optimization problems."
+      },
+      {
+        "index": 9,
+        "heading": "Industry Preparation and Electives",
+        "char_count": 582,
+        "text": "Industry Preparation and Electives\nFrom the 6th to 8th semesters, students choose electives that let them specialize based on current industry trends and their own interests. The 7th semester includes a dedicated Industry Preparation course covering professional and soft skills for job readiness. The 8th semester requires a mandatory internship, and the semester's course load is kept flexible to support this. The department has signed Memorandums of Understanding with AI and software companies in Nepal, including Fusemachines and Leapfrog, to help students secure internships."
+      },
+      {
+        "index": 10,
+        "heading": "Relevance of AI in Today's World",
+        "char_count": 555,
+        "text": "Relevance of AI in Today's World\nAI is a major driver of current technology, from autonomous vehicles and voice assistants to precision agriculture and predictive analytics, driven by growing data availability, computing power, and advances in machine learning. In Nepal specifically, AI has promising applications in smart healthcare diagnosis and treatment planning, agricultural tools for yield prediction and pest detection, natural language interfaces for local languages and dialects, and predictive analytics for disaster management and governance."
+      },
+      {
+        "index": 11,
+        "heading": "Scope of AI in Nepal",
+        "char_count": 551,
+        "text": "Scope of AI in Nepal\nNepal's AI ecosystem is still developing but shows promise across several areas: e-governance (automating administrative processes and citizen services), education technology (adaptive learning and intelligent tutoring systems), agriculture (crop health monitoring and smart irrigation), natural language processing (Nepali-English translation and voice assistants), computer vision (facial recognition and manufacturing quality inspection), and software automation (predictive analytics and workflow optimization for businesses)."
+      },
+      {
+        "index": 12,
+        "heading": "AI Companies in Nepal",
+        "char_count": 637,
+        "text": "AI Companies in Nepal\nSeveral companies are active in Nepal's AI and software space: Fusemachines Nepal (AI education, NLP, and AI-powered solutions), Leapfrog Technology (AI integration in healthcare and enterprise software), Cotiviti Nepal (data analytics and machine learning at scale), LogPoint (security analytics using machine learning), CloudFactory (human-in-the-loop AI services and data labeling), GrowByData (e-commerce data analytics and AI tools), Neema Academy (AI-based education technology), Rumsan (blockchain and data-driven digital solutions), and Ingrails (AI integration in school management and enterprise systems)."
+      },
+      {
+        "index": 13,
+        "heading": "Career Opportunities",
+        "char_count": 495,
+        "text": "Career Opportunities\nGraduates of the BTech in AI program can pursue roles including AI Engineer, Data Scientist, Machine Learning Engineer, Computer Vision Engineer, NLP Researcher, Robotics Engineer, Business Intelligence Analyst, AI Product Manager, AI Consultant, and Research Associate in AI and Data Science. Beyond industry and academic paths, graduates are also eligible to apply for officer-level government positions through the Public Service Commission (Lok Sewa Aayog) examinations."
+      },
+      {
+        "index": 14,
+        "heading": "Further Education",
+        "char_count": 741,
+        "text": "Further Education\nThe Department of Artificial Intelligence offers two postgraduate programs for BTech AI graduates and others. The MTech in AI is designed for students who have completed a four-year bachelor's degree in fields such as Computer Science, Information Technology, Electronics, or Software Engineering. The Master's in AI Application is open to students from any academic background who have completed a four-year bachelor's degree, or a three-year bachelor's degree plus a one-year bridge course, and focuses on practical applications of AI across different domains. Students can also pursue further studies in related fields such as Computer Science, Data Science, or Management, either within Nepal or at universities abroad."
+      }
+    ]
+  },
+  {
+    "file": "About_Mtech.md",
+    "frontmatter": {
+      "title": "MTech in Artificial Intelligence - Program Overview",
+      "source_type": "KU website",
+      "category": "academic_program",
+      "department": "Artificial Intelligence",
+      "degree_level": "PostGraduate",
+      "last_updated": "2026-07-25"
+    },
+    "chunk_count": 4,
+    "warning": null,
+    "chunks": [
+      {
+        "index": 0,
+        "heading": "Program Overview",
+        "char_count": 189,
+        "text": "Program Overview\nMaster of Technology in Artificial Intelligence (MTech in AI) program of Kathmandu University is a 2 years (4 semesters) full-time study program that will run in Kathmandu."
+      },
+      {
+        "index": 1,
+        "heading": "Located at",
+        "char_count": 20,
+        "text": "Located at\nKathmandu"
+      },
+      {
+        "index": 2,
+        "heading": "Objectives",
+        "char_count": 623,
+        "text": "Objectives\nMasters in Artificial Intelligence program of Kathmandu University aims to convey the body of skills, information, and practices connected with advanced computation, data science, and artificial intelligence (AI), which will help to open up new opportunities both locally and globally. \n\nIn particular, Masters in Artificial Intelligence program covers neural networks, fuzzy systems, and the use of evolutionary computation to create machines. The curriculum of this program mainly includes machine learning, neural network, big data analytics, information retrieval, fuzzy system, and evolutionary computation."
+      },
+      {
+        "index": 3,
+        "heading": "Objectives > Career Prospects",
+        "char_count": 411,
+        "text": "Objectives > Career Prospects\nThe program aims to produce graduates who are interested to do research and advance their career in the field of Artificial Intelligence. After the completion of the degree, graduates will be able to perform various jobs and research activities such as:\n  * Computational Linguist,\n  * AI Specialist,\n  * Machine Learning Engineer,\n  * Computer Vision Engineer,\n  * Data Scientist."
+      }
+    ]
+  },
+  {
+    "file": "Admission_test_Syllabus_2026_info_btech.md",
+    "frontmatter": {
+      "title": "KUCAT-CBT 2026 - Syllabus",
+      "degree_level": "Undergraduate",
+      "source_type": "KU website",
+      "last_updated": "2026-07-26",
+      "category": "entrance_exam Format and Syllabus",
+      "academic_year": "2026/2027"
+    },
+    "chunk_count": 12,
+    "warning": null,
+    "chunks": [
+      {
+        "index": 0,
+        "heading": "Syllabus for Physics > A. Mechanics",
+        "char_count": 192,
+        "text": "Syllabus for Physics > A. Mechanics\nPhysical Quantity; Kinematics; Dynamics; Energy; Rotational motion; Gravitation; Structure and Properties of Matter; Elasticity; Viscosity; Surface tension."
+      },
+      {
+        "index": 1,
+        "heading": "Syllabus for Physics > B. Heat and Thermodynamics",
+        "char_count": 154,
+        "text": "Syllabus for Physics > B. Heat and Thermodynamics\nHeat and temperature; Transmission of heat; Basic assumption of kinetic theory of gases; Thermodynamics."
+      },
+      {
+        "index": 2,
+        "heading": "Syllabus for Physics > C. Optics",
+        "char_count": 125,
+        "text": "Syllabus for Physics > C. Optics\nReflection; Refraction; Speed of light; Dispersion of light; Optical Instrument; Photometry."
+      },
+      {
+        "index": 3,
+        "heading": "Syllabus for Physics > D. Waves",
+        "char_count": 74,
+        "text": "Syllabus for Physics > D. Waves\nWave motion; Sound; Electromagnetic waves."
+      },
+      {
+        "index": 4,
+        "heading": "Syllabus for Physics > E. Electrostatics and D.C. Circuits",
+        "char_count": 147,
+        "text": "Syllabus for Physics > E. Electrostatics and D.C. Circuits\nSimple Electrostatic Phenomenon; Charge flow; Resistance; Effect of Current; Capacitors."
+      },
+      {
+        "index": 5,
+        "heading": "Syllabus for Physics > F. Magnetic Field and Current",
+        "char_count": 156,
+        "text": "Syllabus for Physics > F. Magnetic Field and Current\nMagnetic field; Force on conductor; Magnetic materials; Electromagnetic induction; Alternating current."
+      },
+      {
+        "index": 6,
+        "heading": "Syllabus for Physics > G. Modern Physics",
+        "char_count": 124,
+        "text": "Syllabus for Physics > G. Modern Physics\nElectron; Photons; Electronic; Atoms; Nucleus; Radioactivity; Elementary particles."
+      },
+      {
+        "index": 7,
+        "heading": "Syllabus for Chemistry > A. General and Physical Chemistry",
+        "char_count": 531,
+        "text": "Syllabus for Chemistry > A. General and Physical Chemistry\nLanguage of Chemistry; Gaseous state of matter; Liquid state of matter; Solid state of matter; Laws of Stoichiometry; Avogadro's Hypothesis and its important applications; Atomic structure; Quantum numbers; Chemical bonding; Oxidation and Reduction; Acids, Bases and Salts; Acidimetry and Alkalimetry; Periodic Table; Electrochemistry; Electrode potential; Chemical Kinetics; Chemical Equilibrium; LeChatelier's Principle; Chemical Thermodynamics; Entropy and spontaneity."
+      },
+      {
+        "index": 8,
+        "heading": "Syllabus for Chemistry > B. Inorganic Chemistry",
+        "char_count": 227,
+        "text": "Syllabus for Chemistry > B. Inorganic Chemistry\nHydrogen, Oxygen and Nitrogen; Carbon; Sulphur and its compound; Halogen and halogen acids; Introduction to Metals; Alkali and alkaline earth metals; Coinage metals; Heavy metals."
+      },
+      {
+        "index": 9,
+        "heading": "Syllabus for Chemistry > C. Organic Chemistry",
+        "char_count": 320,
+        "text": "Syllabus for Chemistry > C. Organic Chemistry\nIntroduction to Organic Chemistry; Hydrocarbons; Organic halogen compounds; Alcohols; Ethers; Carbonyl Compounds; Carboxylic Acids; Amines; Aromatic Hydrocarbons; Aniline and Nitrobenzene; Carbohydrates, Proteins, Nucleic Acids, Lipids; Polymers, Pesticides, Dyes and Drugs."
+      },
+      {
+        "index": 10,
+        "heading": "Syllabus for Mathematics",
+        "char_count": 825,
+        "text": "Syllabus for Mathematics\nThe Mathematics syllabus for KUCAT-CBT covers 40 topics: Representation of Data; Measures of Location and Spread; Probability; Permutation and Combination; Probability Distributions; Binomial Distributions; Expectation and Variance of a random variable; Normal Distribution; Surds and indices; Functions and Graphs; Quadratics and Inequalities; Differentiation; Application of Differentiation; Sequences; Binomial Theorem; Trigonometry; Extending Differentiation; Vectors; Geometric Sequences; Second Derivative; Integration; Volume of revolution; Polynomial; The Modulus function; Exponential and Logarithmic function; Differentiating Exponential and Logarithmic Functions; Differentiating Trigonometric Function; Determinants; Matrices; Equation of Straight Lines; A pair of lines; System of linear"
+      },
+      {
+        "index": 11,
+        "heading": "Syllabus for Mathematics",
+        "char_count": 285,
+        "text": "Syllabus for Mathematics\ntric Function; Determinants; Matrices; Equation of Straight Lines; A pair of lines; System of linear equations; System of Linear Inequalities and Graphs; Complex Numbers; Limits and Continuity; Coordinate Space; Plane; Concept of Sets; Relation; and Functions."
+      }
+    ]
+  },
+  {
+    "file": "Admission_test_Syllabus_2026_info_mtech.md",
+    "frontmatter": {
+      "title": "KUCAT-CBT 2026 Syllabus",
+      "degree_level": "Graduate",
+      "source_type": "KU website",
+      "last_updated": "2026-07-25",
+      "category": "entrance_exam Syllabus",
+      "academic_year": "2026/2027"
+    },
+    "chunk_count": 6,
+    "warning": null,
+    "chunks": [
+      {
+        "index": 0,
+        "heading": "Admission Test Syllabus for ME Computer Engineering/ MTech IT/ MTech in AI > Programming",
+        "char_count": 275,
+        "text": "Admission Test Syllabus for ME Computer Engineering/ MTech IT/ MTech in AI > Programming\nCovers basic structured programming concepts, including data types and operators, as well as Object-Oriented Programming concepts such as objects, classes, inheritance, and polymorphism."
+      },
+      {
+        "index": 1,
+        "heading": "Admission Test Syllabus for ME Computer Engineering/ MTech IT/ MTech in AI > Data Structures and Algorithms",
+        "char_count": 188,
+        "text": "Admission Test Syllabus for ME Computer Engineering/ MTech IT/ MTech in AI > Data Structures and Algorithms\nCovers stacks, queues, lists, hash tables, and sorting and searching algorithms."
+      },
+      {
+        "index": 2,
+        "heading": "Admission Test Syllabus for ME Computer Engineering/ MTech IT/ MTech in AI > Database Management Systems",
+        "char_count": 187,
+        "text": "Admission Test Syllabus for ME Computer Engineering/ MTech IT/ MTech in AI > Database Management Systems\nCovers relational database concepts, ER diagrams, normalization, and transactions."
+      },
+      {
+        "index": 3,
+        "heading": "Admission Test Syllabus for ME Computer Engineering/ MTech IT/ MTech in AI > Software Engineering",
+        "char_count": 167,
+        "text": "Admission Test Syllabus for ME Computer Engineering/ MTech IT/ MTech in AI > Software Engineering\nCovers software process models, planning and scheduling, and testing."
+      },
+      {
+        "index": 4,
+        "heading": "Admission Test Syllabus for ME Computer Engineering/ MTech IT/ MTech in AI > Artificial Intelligence",
+        "char_count": 172,
+        "text": "Admission Test Syllabus for ME Computer Engineering/ MTech IT/ MTech in AI > Artificial Intelligence\nCovers problem solving through search, logic, and current trends in AI."
+      },
+      {
+        "index": 5,
+        "heading": "Admission Test Syllabus for ME Computer Engineering/ MTech IT/ MTech in AI > Computer Networks",
+        "char_count": 233,
+        "text": "Admission Test Syllabus for ME Computer Engineering/ MTech IT/ MTech in AI > Computer Networks\nCovers the basics of computer networks, TCP/IP, the physical layer, the network layer, the data link layer, and concepts of IP addressing."
+      }
+    ]
+  },
+  {
+    "file": "Application_Procedure_2026_BTech.md",
+    "frontmatter": {
+      "Title": "Undergraduate Admission - Application Procedure 2026/2027",
+      "source_type": "KU website",
+      "degree_level": "Undergraduate",
+      "extracted_on": "2026-07-25",
+      "academic_year": "2026/2027",
+      "Category": "Admission for Undergraduate"
+    },
+    "chunk_count": 20,
+    "warning": null,
+    "chunks": [
+      {
+        "index": 0,
+        "heading": "Overview",
+        "char_count": 256,
+        "text": "Overview\nKathmandu University's undergraduate admission for the 2026/2027 academic year in btech in Artificial Students covers the School of Engineering (SoE). Applicants must apply and sit the KUCAT-CBT entrance test before being considered for admission."
+      },
+      {
+        "index": 1,
+        "heading": "Who can apply?",
+        "char_count": 78,
+        "text": "Who can apply?\nThe admission is open for Nepalese as well as foreign students."
+      },
+      {
+        "index": 2,
+        "heading": "Key Dates and Deadlines",
+        "char_count": 507,
+        "text": "Key Dates and Deadlines\nThe application notice was published on June 17, 2026. Online registration opened June 19, 2026 at 10:00 AM and closes July 9, 2026 at midnight (Nepal time, UTC+5:45). Form filling and payment must be completed by July 10, 2026. These dates apply specifically to the 2026/2027 cycle and may be revised \u2014 any schedule change is announced on the KU website, so callers asking about deadlines should be pointed there or to the admission office if there's any doubt the date has shifted."
+      },
+      {
+        "index": 3,
+        "heading": "Before Applying > Registration Window",
+        "char_count": 327,
+        "text": "Before Applying > Registration Window\nApplications for admission and the KUCAT-CBT 2026 entrance test are submitted entirely through the online portal. Online form registration is only open from June 19, 2026 at 10:00 AM to July 9, 2026 at midnight (Nepal time, UTC+5:45) \u2014 applications cannot be submitted outside this window."
+      },
+      {
+        "index": 4,
+        "heading": "Before Applying > What to Check Before Starting the Form",
+        "char_count": 312,
+        "text": "Before Applying > What to Check Before Starting the Form\nBefore filling out the application, applicants should first understand their intended program, its eligibility criteria, and the subject area they plan to apply for, including the specific admission requirements and qualifications needed for that program."
+      },
+      {
+        "index": 5,
+        "heading": "Before Applying > Where to Get Program Information",
+        "char_count": 326,
+        "text": "Before Applying > Where to Get Program Information\nProgram and subject area details are available on the School of Engineering website at soe.ku.edu.np, or the School of Science website at sos.ku.edu.np. Applicants can also visit KU's main campus in Dhulikhel and contact the relevant department or the Dean's office directly."
+      },
+      {
+        "index": 6,
+        "heading": "Before Applying > Deadlines to Track",
+        "char_count": 277,
+        "text": "Before Applying > Deadlines to Track\nApplicants should note the online application deadline, their preferred test center, and any other scheduled activities before beginning the application, since these dates and options are set in advance and are not adjustable per applicant."
+      },
+      {
+        "index": 7,
+        "heading": "How to Apply",
+        "char_count": 671,
+        "text": "How to Apply\nApplications are submitted entirely online at apply.ku.edu.np/cbt, and a valid email address is required. Applicants first register with their name, email, and a password, then must click the confirmation link and enter the confirmation code sent by email before continuing. Once logged in, applicants fill in personal and academic details, select exactly one program and subject area, upload a passport-style photo and a valid identification document, and upload any other required documents. Information can be saved and edited at any point \u2014 but once the documents and payment proof are uploaded and the form is submitted, no further changes are possible."
+      },
+      {
+        "index": 8,
+        "heading": "Accepted Identification Documents",
+        "char_count": 405,
+        "text": "Accepted Identification Documents\nA valid personal identification document with the applicant's photo is required, and the original must be produced later at the entrance test and admission if offered. Accepted documents are: a citizenship certificate, a passport with a valid date, the admit card from the final class 12 (or equivalent) examination, a driving license with a valid date, or a national ID."
+      },
+      {
+        "index": 9,
+        "heading": "Application Fee and Payment",
+        "char_count": 463,
+        "text": "Application Fee and Payment\nThe application processing fee is NRs. 2,000 (two thousand Nepalese rupees), paid only through eSewa. This fee is strictly non-refundable and non-transferable \u2014 this applies even if a candidate does not appear for the entrance test, is not offered admission, or if the test format later changes. Payments made to any other university account are not considered valid, and the admission committee is not responsible for refunding those."
+      },
+      {
+        "index": 10,
+        "heading": "Admission Card",
+        "char_count": 266,
+        "text": "Admission Card\nAfter the fee is paid, applicants can log back into the application portal to download and print their admission card. It must be printed in color, and the candidate must bring it along with their original identification document to the entrance exam."
+      },
+      {
+        "index": 11,
+        "heading": "Entrance Exam (KUCAT-CBT)",
+        "char_count": 702,
+        "text": "Entrance Exam (KUCAT-CBT)\nThe KUCAT-CBT entrance test is a computer-based test taken in person \u2014 it is not available online. The test schedule is published separately on the KU website and application portal, and once scheduled, there is no rescheduling of the date or time. Candidates should arrive at the exam center well ahead of time and be at the exam room at least 30 minutes before the test starts, bringing both the printed admission card and the original identification document used during application. Personal calculators are not allowed; a calculator is available on the exam computer if needed. Mobile phones and other portable electronic devices are strictly prohibited in the exam room."
+      },
+      {
+        "index": 12,
+        "heading": "Entrance Exam (KUCAT-CBT)",
+        "char_count": 309,
+        "text": "Entrance Exam (KUCAT-CBT)\needed. Mobile phones and other portable electronic devices are strictly prohibited in the exam room. A candidate may only apply once and sit the KUCAT-CBT once \u2014 multiple applications or multiple exam attempts by the same person result in disqualification from the admission process."
+      },
+      {
+        "index": 13,
+        "heading": "After the Exam",
+        "char_count": 245,
+        "text": "After the Exam\nCandidates can check their KUCAT-CBT score after the test. Results and further admission notices are published on the KU website, and the actual admission offer process is handled separately by the Admission Committees under SoE ."
+      },
+      {
+        "index": 14,
+        "heading": "Foreign Nationals",
+        "char_count": 232,
+        "text": "Foreign Nationals\nForeign nationals are eligible to apply for admission provided they meet all minimum requirements. Applicants in this situation should contact the school of engineering dministration directly for specific guidance."
+      },
+      {
+        "index": 15,
+        "heading": "Refunds",
+        "char_count": 302,
+        "text": "Refunds\nThe application fee is non-refundable and non-transferable under all circumstances described in the official procedure - including if the candidate misses the entrance test, is not offered admission, or if the test's mode or format changes. There is no exception process described for this fee."
+      },
+      {
+        "index": 16,
+        "heading": "Getting Help",
+        "char_count": 314,
+        "text": "Getting Help\nFor problems or confusion while filling out the online application, applicants can email admission@ku.edu.np. Response times can take several hours to several days given the volume of queries, so this should be set as the expectation when directing a caller to email rather than call back immediately."
+      },
+      {
+        "index": 17,
+        "heading": "Application Appendix > Photo Requirements",
+        "char_count": 442,
+        "text": "Application Appendix > Photo Requirements\nThe photo uploaded with the application must be a recent, color photo of the candidate, with the face clearly visible against a light, plain background, covering at least 50 to 60 percent of the image. The file size must not exceed 500 KB. The entrance and admission committees reserve the right to reject a candidate if the submitted photo is too old or no longer resembles their current appearance."
+      },
+      {
+        "index": 18,
+        "heading": "Application Appendix > Document Upload Requirements",
+        "char_count": 556,
+        "text": "Application Appendix > Document Upload Requirements\nScanned documents uploaded with the application must be clear, readable, and fully visible, with each file no larger than 500 KB. The details on the document must match what the candidate entered in the application form, and the original document must be produced later if admission is offered. The entrance and admission committees can reject a candidate if the uploaded copy doesn't match the original, or if there's a major discrepancy between the form details and the submitted or original documents."
+      },
+      {
+        "index": 19,
+        "heading": "Application Appendix > One Application, One Attempt Rule",
+        "char_count": 437,
+        "text": "Application Appendix > One Application, One Attempt Rule\nEach candidate is allowed only one application and one attempt at the KUCAT-CBT 2026 entrance exam. If a candidate is found to have submitted multiple applications \u2014 whether using the same or a different identification document \u2014 or appears in the exam more than once, all of their exam attempts will be cancelled and they will be disqualified from the admission process entirely."
+      }
+    ]
+  },
+  {
+    "file": "Application_Procedure_MTech.md",
+    "frontmatter": {
+      "Title": "Graduate Admission - Application Procedure 2026/2027",
+      "source_type": "edusanjal website",
+      "degree_level": "Graduate",
+      "extracted_on": "2026-07-25",
+      "academic_year": "2026/2027",
+      "Category": "Admission for Undergraduate"
+    },
+    "chunk_count": 2,
+    "warning": null,
+    "chunks": [
+      {
+        "index": 0,
+        "heading": "Who can apply?",
+        "char_count": 78,
+        "text": "Who can apply?\nThe admission is open for Nepalese as well as foreign students."
+      },
+      {
+        "index": 1,
+        "heading": "Admission Test/ Interview:",
+        "char_count": 442,
+        "text": "Admission Test/ Interview:\nA written admission test of 1.5 hours would be conducted focusing on core computer subjects. The test would comprise both objective and subjective questions and would weigh 70% of marks. Only those securing a minimum of 40 marks in the written test would be selected for the interview. Successful candidates passing both the written test and the interview would be selected for admission on the basis of merit list."
+      }
+    ]
+  },
+  {
+    "file": "canteen_info.md",
+    "frontmatter": {
+      "title": "Canteen - Kathmandu University",
+      "source_type": "KU website",
+      "degree_level": "Graduate and Postgraduate",
+      "last_updated": "2026-07-25",
+      "category": "campus_services"
+    },
+    "chunk_count": 4,
+    "warning": null,
+    "chunks": [
+      {
+        "index": 0,
+        "heading": "Overview",
+        "char_count": 421,
+        "text": "Overview\nAll schools under KU have a canteen that provides hygienic and nutritious food at an affordable price. They have a spacious setting and offer food only through the balance on the identity cards and not through cash. KU Canteen, KU Cafe, and KU Mesh are the three major destinations to eat on the main campus. They offer a wide range of food items, freshly cooked and prepared, and with attention paid to quality."
+      },
+      {
+        "index": 1,
+        "heading": "KU cafe",
+        "char_count": 167,
+        "text": "KU cafe\nKU Cafe is mainly for having tea, coffee, bakery items, and drinks. It has both indoor and outdoor seating arrangements where the students can sit and discuss."
+      },
+      {
+        "index": 2,
+        "heading": "Canteen Meal Times",
+        "char_count": 264,
+        "text": "Canteen Meal Times\nBreakfast is served from 8:00 AM to 10:00 AM at KU Canteen. A meal service runs from 11:00 AM to 12:30 PM at both KU Canteen and KU Mesh. Lunch is served from 1:00 PM to 3:00 PM at KU Canteen. Dinner is served from 6:00 PM to 7:00 PM at KU Mesh."
+      },
+      {
+        "index": 3,
+        "heading": "Payment",
+        "char_count": 79,
+        "text": "Payment\nThe payment for the Canteen can only be done using the university card."
+      }
+    ]
+  },
+  {
+    "file": "contract_info.md",
+    "frontmatter": {
+      "title": "Contact Information - Kathmandu University",
+      "source_type": "KU website",
+      "degree_level": "Graduate and Postgraduate",
+      "last_updated": "2026-07-25",
+      "category": "contact"
+    },
+    "chunk_count": 6,
+    "warning": null,
+    "chunks": [
+      {
+        "index": 0,
+        "heading": "Department of Artificial Intelligence",
+        "char_count": 140,
+        "text": "Department of Artificial Intelligence\n- Address: Dhulikhel, Kavre\n- Phone: +977-11-499429\n- Email: ai_office@ku.edu.np\n- Fax: +977-11-415011"
+      },
+      {
+        "index": 1,
+        "heading": "School of Engineering",
+        "char_count": 136,
+        "text": "School of Engineering\n- Address: Dhulikhel, Kavre\n- Phone: +977-11-415100\n- Email: soe_office@ku.edu.np\n- Website: https://soe.ku.edu.np"
+      },
+      {
+        "index": 2,
+        "heading": "Kathmandu University (Main)",
+        "char_count": 191,
+        "text": "Kathmandu University (Main)\n- Address: Dhulikhel, Nepal\n- P.O. Box: 6250\n- Phone: +977-11-415100, +977-11-415200, +977-9801210035, +977-11-415005\n- Fax: +977-11-415011\n- Email: info@ku.edu.np"
+      },
+      {
+        "index": 3,
+        "heading": "Central Library",
+        "char_count": 148,
+        "text": "Central Library\n- Phone: +977-11-415100, +977-11-415200, +977-9801210035, +977-11-415005 (university switchboard)\n- Email: central_library@ku.edu.np"
+      },
+      {
+        "index": 4,
+        "heading": "Accounts Office",
+        "char_count": 143,
+        "text": "Accounts Office\n- Phone: +977-11-415100, +977-11-415200, +977-9801210035, +977-11-415005 (university switchboard)\n- Email: kufinanace@ku.edu.np"
+      },
+      {
+        "index": 5,
+        "heading": "Contract Available time",
+        "char_count": 76,
+        "text": "Contract Available time\nphone available from 9:30 AM - 4 PM, Monday - Friday"
+      }
+    ]
+  },
+  {
+    "file": "Curriculum_structure_for_btech.md",
+    "frontmatter": {
+      "title": "BTech in Artificial Intelligence \u2014 Curriculum by Semester",
+      "source_type": "KU website",
+      "category": "academic_program",
+      "department": "Artificial Intelligence",
+      "degree_level": "undergraduate",
+      "academic_year": "2026/2027",
+      "last_updated": "2026-07-25"
+    },
+    "chunk_count": 9,
+    "warning": null,
+    "chunks": [
+      {
+        "index": 0,
+        "heading": "Program Credit Summary",
+        "char_count": 143,
+        "text": "Program Credit Summary\nThe BTech in Artificial Intelligence program requires a total of 129 credits, completed across 8 semesters over 4 years."
+      },
+      {
+        "index": 1,
+        "heading": "Year 1, Semester 1",
+        "char_count": 279,
+        "text": "Year 1, Semester 1\nTotal credit for this semester: 18. Courses: AICC101 Introduction to Intelligent Systems; AIPC101 Introduction to Programming; AIMA101 Calculus; AIMA102 Probability and Statistics; AIME101 Ethics and Professional Conduct; AIMC101 Advanced Communication Skills."
+      },
+      {
+        "index": 2,
+        "heading": "Year 1, Semester 2",
+        "char_count": 264,
+        "text": "Year 1, Semester 2\nTotal credit for this semester: 17. Courses: AIPC102 Object-Oriented Programming; AICS101 Data Structures and Algorithms; AIMA103 Discrete Structures; AIMA104 Linear Algebra; AICC102 Introduction to Cognitive Science; AISP121 Semester Project I."
+      },
+      {
+        "index": 3,
+        "heading": "Year 2, Semester 1",
+        "char_count": 275,
+        "text": "Year 2, Semester 1\nTotal credit for this semester: 17. Courses: AICS201 Database Management Systems; AICS202 Design and Analysis of Algorithms; AICC201 Artificial Intelligence; AICC202 Introduction to Data Science; AIMA201 Differential Equations; AISP211 Semester Project II."
+      },
+      {
+        "index": 4,
+        "heading": "Year 2, Semester 2",
+        "char_count": 259,
+        "text": "Year 2, Semester 2\nTotal credit for this semester: 17. Courses: AICS203 Software Engineering; AIMA202 Optimization Theory; AIMA203 Numerical Methods; AICC203 Introduction to Machine Learning; AIPC201 Programming Paradigms for AI; AISP222 Semester Project III."
+      },
+      {
+        "index": 5,
+        "heading": "Year 3, Semester 1",
+        "char_count": 257,
+        "text": "Year 3, Semester 1\nTotal credit for this semester: 17. Courses: AICC302 Pattern Recognition; AICC301 Data Mining; AICL318 Cloud Computing and AI; AICS301 Computer Networks and Cyber Security; AIMI301 Innovative Entrepreneurship; AISP311 Semester Project IV."
+      },
+      {
+        "index": 6,
+        "heading": "Year 3, Semester 2",
+        "char_count": 290,
+        "text": "Year 3, Semester 2\nTotal credit for this semester: 16. Courses: AICC303 Advanced Machine Learning; AICL311 Image Processing; AICL316 (Elective) Information Retrieval; AICL317 (Elective) Embedded Systems; AISP322 Semester Project V; AISM311 Seminar; AIMA331 Advanced Calculus and Statistics."
+      },
+      {
+        "index": 7,
+        "heading": "Year 4, Semester 1",
+        "char_count": 244,
+        "text": "Year 4, Semester 1\nTotal credit for this semester: 15. Courses: AICC401 Deep Learning; AIMA431 Fuzzy Network and Sequencing; AICL434 Large Language Models; AICL460 IoT and Blockchain; AIIN411 Industrial Preparation; AISP411 Semester Project VI."
+      },
+      {
+        "index": 8,
+        "heading": "Year 4, Semester 2",
+        "char_count": 172,
+        "text": "Year 4, Semester 2\nTotal credit for this semester: 12. Courses: Elective VII (AICL), 3 credits; AIMS401 AI and Society, 3 credits; AIIN412 Industrial Internship, 6 credits."
+      }
+    ]
+  },
+  {
+    "file": "Curriculum_structure_for_mtech.md",
+    "frontmatter": {
+      "title": "MTech in Artificial Intelligence \u2014 Course Catalog by Cluster",
+      "source_type": "KU website",
+      "category": "academic_program",
+      "department": "Artificial Intelligence",
+      "degree_level": "graduate",
+      "last_updated": "2026-07-25"
+    },
+    "chunk_count": 7,
+    "warning": null,
+    "chunks": [
+      {
+        "index": 0,
+        "heading": "Overview",
+        "char_count": 649,
+        "text": "Overview\nCourses for the MTech in Artificial Intelligence are organized into five subject clusters: Core, Application, Mathematical Analysis, Research Work, and Guided Course. Credit values written as \"2+1\" mean 2 lecture credits plus 1 lab or practical credit, for a total of 3 credits; other courses list a single flat credit value. This catalog lists available subjects only \u2014 it does not specify which courses are mandatory, how many credits must be taken from each cluster, or the total credits required to graduate, so that information should be confirmed separately with the department before being used to answer degree-completion questions."
+      },
+      {
+        "index": 1,
+        "heading": "Artificial Intelligence Core Cluster (AICC)",
+        "char_count": 399,
+        "text": "Artificial Intelligence Core Cluster (AICC)\n- AICC500 Artificial Intelligence \u2014 3 credits (2 lecture + 1 lab)\n- AICC501 Machine Learning \u2014 3 credits (2 lecture + 1 lab)\n- AICC502 Data Analytics \u2014 3 credits (2 lecture + 1 lab)\n- AICC503 Computational Intelligence \u2014 3 credits (2 lecture + 1 lab)\n- AICC504 Deep Neural Networks \u2014 3 credits (2 lecture + 1 lab)\n- AICC505 Intelligent Systems \u2014 3 credits"
+      },
+      {
+        "index": 2,
+        "heading": "Artificial Intelligence Application Cluster (AIAC)",
+        "char_count": 851,
+        "text": "Artificial Intelligence Application Cluster (AIAC)\n- AIAC530 Big Data Analytics (covering bio, health, wireless sensor networks, social networks, and financial time series analysis) \u2014 3 credits\n- AIAC531 Deep Learning \u2014 3 credits (2 lecture + 1 lab)\n- AIAC532 Internet of Things (covering Internet of Vehicles, Internet of Health, and Internet of People) \u2014 3 credits\n- AIAC533 Evolutionary Computation \u2014 3 credits\n- AIAC534 Computer Vision \u2014 3 credits (2 lecture + 1 lab)\n- AIAC535 Image Processing \u2014 3 credits (2 lecture + 1 lab)\n- AIAC536 Natural Language Processing \u2014 3 credits (2 lecture + 1 lab)\n- AIAC537 Recommendation Systems \u2014 3 credits (2 lecture + 1 lab)\n- AIAC538 Intelligent Information Retrieval \u2014 3 credits (2 lecture + 1 lab)\n- AIAC539 Knowledge Representation and Reasoning \u2014 3 credits\n- AIAC550 Expert System Design \u2014 3 credits (2 le"
+      },
+      {
+        "index": 3,
+        "heading": "Artificial Intelligence Application Cluster (AIAC)",
+        "char_count": 495,
+        "text": "Artificial Intelligence Application Cluster (AIAC)\nKnowledge Representation and Reasoning \u2014 3 credits\n- AIAC550 Expert System Design \u2014 3 credits (2 lecture + 1 lab)\n- AIAC551 Robotic Design \u2014 3 credits (2 lecture + 1 lab)\n- AIAC552 Human Computer Interaction \u2014 3 credits\n- AIAC553 Software Design \u2014 3 credits (2 lecture + 1 lab)\n- AIAC554 Problem Solving Agents \u2014 3 credits\n- AIAC555 Predictive Modeling \u2014 3 credits (2 lecture + 1 lab)\n- AIAC556 Quantum Computing \u2014 3 credits (2 lecture + 1 lab)"
+      },
+      {
+        "index": 4,
+        "heading": "Artificial Intelligence Mathematical Analysis Cluster (AIMA)",
+        "char_count": 427,
+        "text": "Artificial Intelligence Mathematical Analysis Cluster (AIMA)\n- AIMA500 Computational Statistics and Probability \u2014 3 credits\n- AIMA501 Statistical Methods for AI Applications \u2014 3 credits\n- AIMA502 Probabilistic Graphical Models \u2014 3 credits\n- AIMA503 Fuzzy Systems \u2014 3 credits\n- AIMA504 Discrete Multivariate Modeling \u2014 3 credits\n- AIMA505 Computational Numerical Methods \u2014 3 credits\n- AIMA506 Optimization Techniques \u2014 3 credits"
+      },
+      {
+        "index": 5,
+        "heading": "Artificial Intelligence Research Work Cluster (AIRW)",
+        "char_count": 292,
+        "text": "Artificial Intelligence Research Work Cluster (AIRW)\n- AIRW530 Research Techniques for Computer Science \u2014 3 credits\n- AIRW531 Topics in Data Science \u2014 3 credits\n- AIRW532 AI and Society \u2014 3 credits\n- AIRW533 Topics in AI \u2014 3 credits\n- AIRW621 Seminar \u2014 3 credits\n- AIRW699 Thesis \u2014 15 credits"
+      },
+      {
+        "index": 6,
+        "heading": "Artificial Intelligence Guided Course Cluster (AIGC)",
+        "char_count": 88,
+        "text": "Artificial Intelligence Guided Course Cluster (AIGC)\n- AIGC651 Guided Course \u2014 3 credits"
+      }
+    ]
+  },
+  {
+    "file": "Eligibility_criteria_info.md",
+    "frontmatter": {
+      "title": "Eligibility \u2014 Kathmandu University",
+      "source_type": "KU website",
+      "degree_level": "Undergraduate and PostGraduate",
+      "last_updated": "2026-07-25",
+      "category": "Eligibility for Admission in BTech/Undergraduate and Mtech/Postgraduate"
+    },
+    "chunk_count": 2,
+    "warning": null,
+    "chunks": [
+      {
+        "index": 0,
+        "heading": "Eligibility criteria for Admission in BTech / Undergraduate",
+        "char_count": 416,
+        "text": "Eligibility criteria for Admission in BTech / Undergraduate\nTo be fully eligible for admission, candidates must have passed 10+2 level (or equivalent) with a minimum aggregate GPA of 2.0 (aggregate 50% in percentage scale) with subjects PCM (Physics, Chemistry and Mathematics) or PMCs (Physics, Mathematics and Computer Science) and must have appeared in Kathmandu University Common Admission Test (KUCAT-CBT 2026)."
+      },
+      {
+        "index": 1,
+        "heading": "Eligibility criteria for Admission in MTech / Graduate",
+        "char_count": 450,
+        "text": "Eligibility criteria for Admission in MTech / Graduate\nCandidates with score of at least 50% in aggregate or CGPA 2.0 out of 4.0 grading system from any recognized institution, and  Undergraduate in Engineering / Technology / Architecture / Computer Application (with honors), or Total of at least 16 years of education with science background, or M.Sc. in Physics, Chemistry, Mathematics, Statistics or any other related field are eligible to apply."
+      }
+    ]
+  },
+  {
+    "file": "exam_centers_info.md",
+    "frontmatter": {
+      "title": "KUCAT-CBT 2026 \u2014 Test Centers",
+      "source_type": "KU website",
+      "degree_level": "Graduate",
+      "last_updated": "2026-07-25",
+      "category": "Entrance exam centers",
+      "academic_year": "2026/2027"
+    },
+    "chunk_count": 1,
+    "warning": null,
+    "chunks": [
+      {
+        "index": 0,
+        "heading": "Test Centers",
+        "char_count": 220,
+        "text": "Test Centers\nKUCAT-CBT 2026 is conducted at five centers: Lalitpur, Dhulikhel, Biratnagar, Butwal, and Pokhara. The test is computer-based and is not available online \u2014 it must be taken in person at one of these centers."
+      }
+    ]
+  },
+  {
+    "file": "Fee_structure_mtech_info.md",
+    "frontmatter": {
+      "title": "Fee Structure \u2014 Kathmandu University",
+      "source_type": "KU website",
+      "degree_level": "Graduate",
+      "last_updated": "2026-07-25",
+      "academic_year": "2026/2027",
+      "category": "Fee Structure"
+    },
+    "chunk_count": 3,
+    "warning": null,
+    "chunks": [
+      {
+        "index": 0,
+        "heading": "For Nepalese Students > Fees",
+        "char_count": 318,
+        "text": "For Nepalese Students > Fees\nTotal course fee for the two year (4 semesters) study period is NRs 395,000/- (ordinary Nepalese student fee, which excludes NRs 10,000/- caution money and NRs 1000/- per year medical insurance) for ordinary Nepalese students. The fee for sponsored candidate is 1.5 times the ordinary fee."
+      },
+      {
+        "index": 1,
+        "heading": "For SAARC country international students",
+        "char_count": 284,
+        "text": "For SAARC country international students\nFee for SAARC country international candidate is 1.5 times the regular fee and for other country is 2.0 times the regular fee. Extension of period of study may subject to requirement of payment of additional fees for the extended study period."
+      },
+      {
+        "index": 2,
+        "heading": "Payment Information:",
+        "char_count": 227,
+        "text": "Payment Information:\nFee to be paid at the time of admission for ordinary Nepalese student is NRs. 136,000/- that includes first installment of first semester fee. Rest of the fee shall be paid in two installments per semester."
+      }
+    ]
+  },
+  {
+    "file": "Fee_stucture_btech_info.md",
+    "frontmatter": {
+      "title": "Fee Structure \u2014 Kathmandu University",
+      "source_type": "KU website",
+      "degree_level": "Undergraduate",
+      "category": "Fee structure",
+      "last_updated": "2026-07-25",
+      "academic_year": "2026/2027"
+    },
+    "chunk_count": 7,
+    "warning": null,
+    "chunks": [
+      {
+        "index": 0,
+        "heading": "Overview",
+        "char_count": 222,
+        "text": "Overview\nThis fee structure covers BTech tuition, showing the current fiscal year's fee along with recent years for reference, and separate rates for Nepalese and international students. The current fiscal year is 2082/83."
+      },
+      {
+        "index": 1,
+        "heading": "Fee Structure for Nepalese Students > Fiscal Year 2082/83 (Current Fee)",
+        "char_count": 137,
+        "text": "Fee Structure for Nepalese Students > Fiscal Year 2082/83 (Current Fee)\nThe current BTech fee for the 2082/83 fiscal year is Rs 9,60,000."
+      },
+      {
+        "index": 2,
+        "heading": "Fee Structure for Nepalese Students > Fiscal Year 2081/82",
+        "char_count": 116,
+        "text": "Fee Structure for Nepalese Students > Fiscal Year 2081/82\nThe BTech fee for the 2081/82 fiscal year was Rs 9,15,000."
+      },
+      {
+        "index": 3,
+        "heading": "Fee Structure for Nepalese Students > Fiscal Year 2079/80",
+        "char_count": 116,
+        "text": "Fee Structure for Nepalese Students > Fiscal Year 2079/80\nThe BTech fee for the 2079/80 fiscal year was Rs 8,50,000."
+      },
+      {
+        "index": 4,
+        "heading": "Fee Structure for Nepalese Students > Fiscal Year 2078/79",
+        "char_count": 116,
+        "text": "Fee Structure for Nepalese Students > Fiscal Year 2078/79\nThe BTech fee for the 2078/79 fiscal year was Rs 8,00,000."
+      },
+      {
+        "index": 5,
+        "heading": "Fee Structure for International Students > SAARC Countries",
+        "char_count": 153,
+        "text": "Fee Structure for International Students > SAARC Countries\nApplicants from SAARC countries pay 1.5 times the fee charged to domestic (Nepalese) students."
+      },
+      {
+        "index": 6,
+        "heading": "Fee Structure for International Students > Non-SAARC Countries",
+        "char_count": 162,
+        "text": "Fee Structure for International Students > Non-SAARC Countries\nApplicants from countries outside SAARC pay double the fee charged to domestic (Nepalese) students."
+      }
+    ]
+  },
+  {
+    "file": "hostel_info.md",
+    "frontmatter": {
+      "title": "Hostel \u2014 Kathmandu University",
+      "source_type": "KU website",
+      "degree_level": "Undergraduate",
+      "last_updated": "2026-07-25",
+      "category": "Hostel"
+    },
+    "chunk_count": 3,
+    "warning": null,
+    "chunks": [
+      {
+        "index": 0,
+        "heading": "Student Hostels for national students",
+        "char_count": 332,
+        "text": "Student Hostels for national students\nKathmandu University has several hostels, two in the main premises, one for boys and the other for girls. There are also graduate hostels for both boys and girls. Each hostel is secured by guards and is provided with an internet facility and hot water (solar). All the rooms are well furnished."
+      },
+      {
+        "index": 1,
+        "heading": "priorities",
+        "char_count": 145,
+        "text": "priorities\nThe university provides hostels to the students (both boys and girls). Priorities are given to the students from outside the locality."
+      },
+      {
+        "index": 2,
+        "heading": "Hostel for international students",
+        "char_count": 141,
+        "text": "Hostel for international students\nInternational students are provided single accommodation at the guest house within the university premises."
+      }
+    ]
+  },
+  {
+    "file": "library_info.md",
+    "frontmatter": {
+      "title": "Library \u2014 Kathmandu University",
+      "source_type": "KU website",
+      "degree_level": "Graduate and Postgraduate",
+      "last_updated": "2026-07-25",
+      "category": "library"
+    },
+    "chunk_count": 12,
+    "warning": null,
+    "chunks": [
+      {
+        "index": 0,
+        "heading": "Central Library",
+        "char_count": 597,
+        "text": "Central Library\nThe Kathmandu University Central Library (KUCL) is centrally located in the university central premises and can be reached within three to five minutes from all departments and hostels. The library is housed in a three-story building with a space of about 2290 square meter. The KUCL has majority of books and journals specially related with School of Science and School of Engineering. It monitors services of all libraries of the university.\nSchools located in Kathmandu valley and Dhulikhel, have their own libraries to cater the information needs of the students and faculties."
+      },
+      {
+        "index": 1,
+        "heading": "Other KU Libraries by Location:",
+        "char_count": 360,
+        "text": "Other KU Libraries by Location:\nManagement Library, Balkumari (Lalitpur)\nArts and Education Library, Hattiban (Lalitpur)\nMedical Sciences (KUMS) Library (Basic Sciences: Chaukot (Panauti) and Clinical Sciences: Dhulikhel Hospital)\nKUIC Library (for Agriculture and AI), KUIC (Dhulikhel).\nYogic Science Library, Chaukot (Panauti)\nKUHS Library, Chaukot (Panauti)"
+      },
+      {
+        "index": 2,
+        "heading": "Objectives",
+        "char_count": 588,
+        "text": "Objectives\nTo provide information for the fulfillment of the objectives of the university.\nTo provide information for teaching, research and management of the university.\nTo provide learning materials both in conventional and e-resources for study and research.\nTo adopt ICTs in housekeeping operations of the library.\nTo manage important documents in Archive mode\nTo be a full-fledged modern library (e-Library, Digital Library) and connect to all schools, extended & affiliated colleges.\nResource sharing between KU Central library systems to all schools, extended & affiliated colleges"
+      },
+      {
+        "index": 3,
+        "heading": "Collection of Information",
+        "char_count": 306,
+        "text": "Collection of Information\nThe library's holdings include over 60,000 volumes of books, 2,500 CD-ROMs, 200 videocassettes, 125 journal titles and newsletters, 20 newspapers and magazines, and 75 audio cassettes, spanning Sciences, Engineering, Management, Teacher Education, Medical Sciences, Arts, and Law."
+      },
+      {
+        "index": 4,
+        "heading": "Infrastructure provided by library:",
+        "char_count": 499,
+        "text": "Infrastructure provided by library:\nPeriodical section, technical processing section, Reference section, Stack-cum-reading room, Circulation section, Offices for librarian and assistant librarian, Store are all well designed. They are all equipped with necessary library furniture and equipment\u2019s designed by the experts.\n\nSpaces:\nReading space,\nBook Stack Rooms,\nFaculty\u2013Student discussion room,\nArrangement of adequate space for Reference section,\nMeeting Hall,\nSmart computer Lab,\nArchive space,\\"
+      },
+      {
+        "index": 5,
+        "heading": "Library Rules and Regulations: > Opening and Closing Hours:",
+        "char_count": 349,
+        "text": "Library Rules and Regulations: > Opening and Closing Hours:\nLibrary Opening Hours: 7:00AM - 8:00P.M. in weekdays and 12:00 P.M. - 6:00 P.M. on Saturdays and Sundays. The opening hour is subject to change as per needs and circumstances.\nBooks Circulation Hours: 9:00A.M. - 4:00 P.M. The circulation hour may be adjusted as per need and circumstances."
+      },
+      {
+        "index": 6,
+        "heading": "Library Rules and Regulations: > Borrowing Rules and Overdue Fines",
+        "char_count": 648,
+        "text": "Library Rules and Regulations: > Borrowing Rules and Overdue Fines\nBooks are borrowable for 30 days, and can be renewed once for the same period.\nThe member is expected to return borrowed books on or before the due date stamped on the date label in the book. An overdue charge will be levied for the late return of the book as follows: No overdue charge for first three days, and for rest of the days Rs. 3/- per vol. per day.\nIf the due date lies during holidays or vacation period, the book should be returned to the library on the opening day. Failure to return on the opening day is subject to overdue fines of the holidays/vacation period too."
+      },
+      {
+        "index": 7,
+        "heading": "Library Rules and Regulations: > Card reneual",
+        "char_count": 231,
+        "text": "Library Rules and Regulations: > Card reneual\nIn case of loss or damage of the Identity Card, a duplicate card can be made with a fee of Rs. 150.00.\nIdentity Card should be returned to the library while obtaining library clearance."
+      },
+      {
+        "index": 8,
+        "heading": "Library Rules and Regulations: > Library Conduct Rules",
+        "char_count": 405,
+        "text": "Library Rules and Regulations: > Library Conduct Rules\nBags, briefcases, and personal belongings must be left outside the library, and food, drinks, and smoking are not permitted inside. The library maintains a strict quiet policy \u2014 conversations, phone calls, and noisy greetings are not allowed. Because the library serves both current and future members, materials are expected to be handled with care."
+      },
+      {
+        "index": 9,
+        "heading": "Library Rules and Regulations: > Misconduct Penalties",
+        "char_count": 573,
+        "text": "Library Rules and Regulations: > Misconduct Penalties\nDamaging or attempting to steal library materials carries escalating penalties: a first offense results in a fine of either 1,000 rupees or three times the item's value (whichever is higher), a report to the Director of Student Affairs and the notice board, and notification to the student's guardian. A second offense adds suspension of library membership for the remainder of the semester or year and penalties of first offense. A third offense can lead to expulsion proceeding along with penalties of second offense."
+      },
+      {
+        "index": 10,
+        "heading": "Services Offered:",
+        "char_count": 255,
+        "text": "Services Offered:\nThe library provides circulation, inter-library loan, reference and referral services, reprographic (photocopying) services, user education, current awareness services, paper clippings, OPAC catalog search, and internet and email access."
+      },
+      {
+        "index": 11,
+        "heading": "Internet:",
+        "char_count": 124,
+        "text": "Internet:\nWi-Fi hotspot available at Library Building inside for all to help them in their study, research and project work."
+      }
+    ]
+  },
+  {
+    "file": "scholorship_info.md",
+    "frontmatter": {
+      "title": "Scholorship \u2014 Kathmandu University",
+      "source_type": "KU website",
+      "degree_level": "Graduate and Postgraduate",
+      "last_updated": "2026-07-25",
+      "category": "Scholarship or Financial Support"
+    },
+    "chunk_count": 4,
+    "warning": null,
+    "chunks": [
+      {
+        "index": 0,
+        "heading": "For Undergraduate/Bachelor students > KU SOE Scholarship",
+        "char_count": 677,
+        "text": "For Undergraduate/Bachelor students > KU SOE Scholarship\nKU SOE Scholarship is focused for meritorious and needy (economically weak) students enrolled in KU UNG programs. For each 30 fee paying students, ONE student will be admitted on full or partial scholarship(equivalent to the fee of one student). This scholarship is provided to the first year students at the time of admission, first time on need basis and then based on their academic performance, after annual review. They need to maintain a minimum total GPA of 3.0 to continue in each academic year. Also, it will not be regular for students who have to appear compartmental exams and who do not maintain discipline."
+      },
+      {
+        "index": 1,
+        "heading": "For Undergraduate/Bachelor students > KU Educational Loan",
+        "char_count": 669,
+        "text": "For Undergraduate/Bachelor students > KU Educational Loan\nUnder this category, an educational loan will be provided to the selected students enabling them to meet 25% to 50% of total fees charged by the University. This educational loan depends on the availability of fund in each UNG program of SOE as per KU rule. The student must sign a contract paper with the University (as a bond paper) for its refund. Other conditions are same as that in KU scholarship. The number of educational loans offered in this scheme depends upon the available loan scholarship fund which in turn is dependent on the return/payment of the loan received by students in the earlier years."
+      },
+      {
+        "index": 2,
+        "heading": "For Undergraduate/Bachelor students > How to Apply for a Scholarship or Financial Support",
+        "char_count": 699,
+        "text": "For Undergraduate/Bachelor students > How to Apply for a Scholarship or Financial Support\nGeneral information about scholarships and financial support is announced during the admission period, and the application form is distributed as part of online admission. Applicants must submit the completed form along with all required supporting documents, as specified in the Financial Support Scheme form. An interview is held for applicants during the admission period, and the decision on whether a scholarship or financial support is awarded is made before the candidate is admitted to the program. The university reserves the right to select the most appropriate candidates from among all applicants."
+      },
+      {
+        "index": 3,
+        "heading": "For Graduate/Master students > KU Graduate Assistantship:",
+        "char_count": 291,
+        "text": "For Graduate/Master students > KU Graduate Assistantship:\nThis assistantship is focused for M. Tech./M.S. by research, M. Phil. and Ph.D. students of SoE based on their academic performance. In this category, a student is provided teaching assistantship to cover partial or full tuition fee."
+      }
+    ]
+  },
+  {
+    "file": "Test_format_info.md",
+    "frontmatter": {
+      "title": "KUCAT-CBT 2026 \u2014 Test Format",
+      "source_type": "KU website",
+      "degree_level": "Undergraduate",
+      "last_updated": "2026-07-25",
+      "category": "Entrance exam Format for 2026",
+      "academic_year": "2026/2027"
+    },
+    "chunk_count": 7,
+    "warning": null,
+    "chunks": [
+      {
+        "index": 0,
+        "heading": "Test Centers",
+        "char_count": 220,
+        "text": "Test Centers\nKUCAT-CBT 2026 is conducted at five centers: Lalitpur, Dhulikhel, Biratnagar, Butwal, and Pokhara. The test is computer-based and is not available online \u2014 it must be taken in person at one of these centers."
+      },
+      {
+        "index": 1,
+        "heading": "Test Format Overview",
+        "char_count": 537,
+        "text": "Test Format Overview\nThe KUCAT-CBT lasts two hours in total and contains 120 multiple-choice questions. The test is split into three parts \u2014 one for each subject in the candidate's chosen stream (PCM or PCB) \u2014 with 40 questions per part. Each subject's syllabus has 40 topics, and exactly one question is asked per topic. Candidates cannot skip a question or return to one already submitted, but they can freely switch between the three subject parts at any time during the test. Scores are shown to the candidate at the end of the test."
+      },
+      {
+        "index": 2,
+        "heading": "Adaptive Difficulty and Scoring",
+        "char_count": 662,
+        "text": "Adaptive Difficulty and Scoring\nEach part of the test starts with a difficulty level 1 question. Answering a question correctly raises the difficulty of the next question by one level; answering incorrectly lowers it by one level. Difficulty level 5 (the hardest) doesn't increase further after a correct answer, and difficulty level 1 (the easiest) doesn't decrease further after an incorrect answer.\n\nEach correct answer adds points based on the question's difficulty level:\n \n- Level 1: 11 points\n- Level 2: 13 points\n- Level 3: 15 points\n- Level 4: 17 points\n- Level 5: 19 points\nA candidate's score starts at zero, and total CBT scores range from 0 to 2220."
+      },
+      {
+        "index": 3,
+        "heading": "Exam Day Rules and Procedure",
+        "char_count": 726,
+        "text": "Exam Day Rules and Procedure\nCandidates must arrive at least 30 minutes before their test's scheduled start time. Arriving late shortens the candidate's available time \u2014 the two-hour limit is not extended for latecomers for any reason. Candidates must bring their color-printed admission card and the original identification document used during application; scanned copies, printouts, or photos of the ID are not accepted as valid originals.\n \nPersonal calculators are not allowed; a calculator is available on the test computer if needed. Only pens and pencils may be brought into the test room \u2014 no other electronic devices or writing materials are permitted, and mobile phones and wireless devices are strictly prohibited."
+      },
+      {
+        "index": 4,
+        "heading": "Exam Day Rules and Procedure",
+        "char_count": 776,
+        "text": "Exam Day Rules and Procedure\nor writing materials are permitted, and mobile phones and wireless devices are strictly prohibited. Bags and personal belongings must be left at the assigned area outside the testing area before candidates take their seats.\n \nOnce seated, candidates log in with credentials provided after ID verification, confirm their name on screen, and choose which of the three subjects to start with \u2014 the timer begins as soon as a subject is selected. Candidates having difficulty during the test should raise their hand to call an invigilator, and may not communicate with or look at other candidates' screens. Restroom breaks are only allowed starting 30 minutes after the test begins, and must be completed at least 15 minutes before the test's end time."
+      },
+      {
+        "index": 5,
+        "heading": "Exam Day Rules and Procedure",
+        "char_count": 431,
+        "text": "Exam Day Rules and Procedure\nminutes after the test begins, and must be completed at least 15 minutes before the test's end time. After finishing, candidates must show their results on screen to an invigilator, who records the score manually and has the candidate sign it before logging out.\n \nAttempting to cheat, or failing to follow invigilator instructions or exam rules, results in disqualification from the admission process."
+      },
+      {
+        "index": 6,
+        "heading": "One Application, One Attempt Rule",
+        "char_count": 314,
+        "text": "One Application, One Attempt Rule\nEach candidate may submit only one application and take the KUCAT-CBT only once. If a candidate is found to have submitted multiple applications, or appears for the test more than once, all of their exam attempts are cancelled and they are disqualified from the admission process."
+      }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "file": "...",
+  "frontmatter": {
+    "title": "Class Timing — Department of Artificial Intelligence, Kathmandu University",
+    "source_type": "scraped",
+    "degree_level": "Btech and Mtech",
+    "last_updated": "2026-08-06",
+    "category": "Class Timing"
+  },
+  "chunk_count": 2,
+  "warning": null,
+  "chunks": [
+    {
+      "index": 0,
+      "heading": "Regular class schedule",
+      "char_count": 181,
+      "text": "Regular class schedule\nRegular classes for the Department of Artificial Intelligence are conducted according to the official academic timetable published by the department. Students should follow the semester timetable for their assigned courses."
+    },
+    {
+      "index": 1,
+      "heading": "Class timetable updates",
+      "char_count": 196,
+      "text": "Class timetable updates\nAny changes to class schedules, laboratory sessions, or makeup classes are communicated by the department through official notices or the semester timetable. Students should regularly check departmental announcements for updates."
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "file": "Admission_test_Syllabus_2026_info_btech.md",
+  "frontmatter": {
+    "title": "KUCAT-CBT 2026 - Syllabus",
+    "degree_level": "Undergraduate",
+    "source_type": "KU website",
+    "last_updated": "2026-07-26",
+    "category": "entrance_exam Syllabus",
+    "academic_year": "2026/2027"
+  },
+  "chunk_count": 12,
+  "warning": null,
+  "chunks": [
+    {
+      "index": 0,
+      "heading": "Syllabus for Physics > A. Mechanics",
+      "char_count": 192,
+      "text": "Syllabus for Physics > A. Mechanics\nPhysical Quantity; Kinematics; Dynamics; Energy; Rotational motion; Gravitation; Structure and Properties of Matter; Elasticity; Viscosity; Surface tension."
+    },
+    {
+      "index": 1,
+      "heading": "Syllabus for Physics > B. Heat and Thermodynamics",
+      "char_count": 154,
+      "text": "Syllabus for Physics > B. Heat and Thermodynamics\nHeat and temperature; Transmission of heat; Basic assumption of kinetic theory of gases; Thermodynamics."
+    },
+    {
+      "index": 2,
+      "heading": "Syllabus for Physics > C. Optics",
+      "char_count": 125,
+      "text": "Syllabus for Physics > C. Optics\nReflection; Refraction; Speed of light; Dispersion of light; Optical Instrument; Photometry."
+    },
+    {
+      "index": 3,
+      "heading": "Syllabus for Physics > D. Waves",
+      "char_count": 74,
+      "text": "Syllabus for Physics > D. Waves\nWave motion; Sound; Electromagnetic waves."
+    },
+    {
+      "index": 4,
+      "heading": "Syllabus for Physics > E. Electrostatics and D.C. Circuits",
+      "char_count": 147,
+      "text": "Syllabus for Physics > E. Electrostatics and D.C. Circuits\nSimple Electrostatic Phenomenon; Charge flow; Resistance; Effect of Current; Capacitors."
+    },
+    {
+      "index": 5,
+      "heading": "Syllabus for Physics > F. Magnetic Field and Current",
+      "char_count": 156,
+      "text": "Syllabus for Physics > F. Magnetic Field and Current\nMagnetic field; Force on conductor; Magnetic materials; Electromagnetic induction; Alternating current."
+    },
+    {
+      "index": 6,
+      "heading": "Syllabus for Physics > G. Modern Physics",
+      "char_count": 124,
+      "text": "Syllabus for Physics > G. Modern Physics\nElectron; Photons; Electronic; Atoms; Nucleus; Radioactivity; Elementary particles."
+    },
+    {
+      "index": 7,
+      "heading": "Syllabus for Chemistry > A. General and Physical Chemistry",
+      "char_count": 531,
+      "text": "Syllabus for Chemistry > A. General and Physical Chemistry\nLanguage of Chemistry; Gaseous state of matter; Liquid state of matter; Solid state of matter; Laws of Stoichiometry; Avogadro's Hypothesis and its important applications; Atomic structure; Quantum numbers; Chemical bonding; Oxidation and Reduction; Acids, Bases and Salts; Acidimetry and Alkalimetry; Periodic Table; Electrochemistry; Electrode potential; Chemical Kinetics; Chemical Equilibrium; LeChatelier's Principle; Chemical Thermodynamics; Entropy and spontaneity."
+    },
+    {
+      "index": 8,
+      "heading": "Syllabus for Chemistry > B. Inorganic Chemistry",
+      "char_count": 227,
+      "text": "Syllabus for Chemistry > B. Inorganic Chemistry\nHydrogen, Oxygen and Nitrogen; Carbon; Sulphur and its compound; Halogen and halogen acids; Introduction to Metals; Alkali and alkaline earth metals; Coinage metals; Heavy metals."
+    },
+    {
+      "index": 9,
+      "heading": "Syllabus for Chemistry > C. Organic Chemistry",
+      "char_count": 320,
+      "text": "Syllabus for Chemistry > C. Organic Chemistry\nIntroduction to Organic Chemistry; Hydrocarbons; Organic halogen compounds; Alcohols; Ethers; Carbonyl Compounds; Carboxylic Acids; Amines; Aromatic Hydrocarbons; Aniline and Nitrobenzene; Carbohydrates, Proteins, Nucleic Acids, Lipids; Polymers, Pesticides, Dyes and Drugs."
+    },
+    {
+      "index": 10,
+      "heading": "Syllabus for Mathematics",
+      "char_count": 825,
+      "text": "Syllabus for Mathematics\nThe Mathematics syllabus for KUCAT-CBT covers 40 topics: Representation of Data; Measures of Location and Spread; Probability; Permutation and Combination; Probability Distributions; Binomial Distributions; Expectation and Variance of a random variable; Normal Distribution; Surds and indices; Functions and Graphs; Quadratics and Inequalities; Differentiation; Application of Differentiation; Sequences; Binomial Theorem; Trigonometry; Extending Differentiation; Vectors; Geometric Sequences; Second Derivative; Integration; Volume of revolution; Polynomial; The Modulus function; Exponential and Logarithmic function; Differentiating Exponential and Logarithmic Functions; Differentiating Trigonometric Function; Determinants; Matrices; Equation of Straight Lines; A pair of lines; System of linear"
+    },
+    {
+      "index": 11,
+      "heading": "Syllabus for Mathematics",
+      "char_count": 285,
+      "text": "Syllabus for Mathematics\ntric Function; Determinants; Matrices; Equation of Straight Lines; A pair of lines; System of linear equations; System of Linear Inequalities and Graphs; Complex Numbers; Limits and Continuity; Coordinate Space; Plane; Concept of Sets; Relation; and Functions."
+    }
+  ]
+}

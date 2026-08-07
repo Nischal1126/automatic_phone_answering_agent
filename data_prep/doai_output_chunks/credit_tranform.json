@@ -1,0 +1,44 @@
+{
+  "file": "....",
+  "frontmatter": {
+    "title": "Credit Transfer — Kathmandu University",
+    "source_type": "KU website",
+    "degree_level": "Graduate and undergraduate",
+    "last_updated": "2026-08-06",
+    "category": "Credit Transfer"
+  },
+  "chunk_count": 5,
+  "warning": null,
+  "chunks": [
+    {
+      "index": 0,
+      "heading": "Credit transfer application",
+      "char_count": 222,
+      "text": "Credit transfer application\nStudents interested in credit transfer should check the official Kathmandu University website for active credit transfer or Expression of Interest (EOI) notices before applying."
+    },
+    {
+      "index": 1,
+      "heading": "Application form",
+      "char_count": 190,
+      "text": "Application form\nApplicants must complete the designated credit transfer or Expression of Interest (EOI) application form. The form is typically provided through the official admission notice or an online application link."
+    },
+    {
+      "index": 2,
+      "heading": "Required documents",
+      "char_count": 372,
+      "text": "Required documents\nApplicants should prepare the required documents, including official academic transcripts and grade sheets from their previous or foreign university, course syllabi or descriptions for equivalence evaluation, and a copy of their student ID along with a citizenship certificate or passport."
+    },
+    {
+      "index": 3,
+      "heading": "Document submission",
+      "char_count": 216,
+      "text": "Document submission\nCompleted applications and supporting documents should be submitted to the relevant department, school office, or through the online application link specified in the official credit transfer notice."
+    },
+    {
+      "index": 4,
+      "heading": "Application review",
+      "char_count": 210,
+      "text": "Application review\nKathmandu University reviews each credit transfer application individually. The university evaluates subject equivalence, credit matching, and any examination requirements before making a final decision."
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "file": "About_btech.md",
+  "frontmatter": {
+    "title": "BTech in Artificial Intelligence - Program Overview",
+    "source_type": "KU website",
+    "category": "academic_program",
+    "department": "Artificial Intelligence",
+    "degree_level": "undergraduate",
+    "last_updated": "2026-07-25"
+  },
+  "chunk_count": 15,
+  "warning": null,
+  "chunks": [
+    {
+      "index": 0,
+      "heading": "Overview",
+      "char_count": 458,
+      "text": "Overview\nThe Bachelor of Technology (BTech) in Artificial Intelligence is an undergraduate engineering program that builds a strong foundation in computer science, mathematics, and core AI methods, focused on designing systems capable of human-like decision-making, learning, and problem-solving. The program combines theoretical understanding with the practical skills needed to design, develop, and deploy AI-based applications across different industries."
+    },
+    {
+      "index": 1,
+      "heading": "Located at",
+      "char_count": 34,
+      "text": "Located at\nKUAIC, Dhulikhel, Kavre"
+    },
+    {
+      "index": 2,
+      "heading": "Program Objectives",
+      "char_count": 641,
+      "text": "Program Objectives\nThe program aims to give students core knowledge of artificial intelligence, machine learning, deep learning, and data science, alongside a strong foundation in mathematics, programming, and algorithmic thinking. It exposes students to real-world AI applications in sectors like healthcare, agriculture, education, finance, robotics, natural language processing, and computer vision, and encourages innovation and entrepreneurship through project-based learning and industry collaboration. The overall goal is to prepare graduates for careers in AI research, development, and deployment, both in Nepal and internationally."
+    },
+    {
+      "index": 3,
+      "heading": "Core Course Areas",
+      "char_count": 213,
+      "text": "Core Course Areas\nThe program runs over 8 semesters, combining core engineering subjects with specialized AI courses to build technical fundamentals while introducing students to current developments in the field."
+    },
+    {
+      "index": 4,
+      "heading": "Core Course Areas > Programming and Software Development",
+      "char_count": 202,
+      "text": "Core Course Areas > Programming and Software Development\nStudents learn C, C++, and Python, along with Object-Oriented Programming, Data Structures and Algorithms, and Design and Analysis of Algorithms."
+    },
+    {
+      "index": 5,
+      "heading": "Core Course Areas > Mathematics for AI",
+      "char_count": 224,
+      "text": "Core Course Areas > Mathematics for AI\nCore mathematics courses include Calculus, Linear Algebra, Probability, Statistics, Numerical Methods, and Differential Equations, building the analytical foundation needed for AI work."
+    },
+    {
+      "index": 6,
+      "heading": "Core Course Areas > Machine Learning and Data Science",
+      "char_count": 229,
+      "text": "Core Course Areas > Machine Learning and Data Science\nCourses in Machine Learning, Advanced Machine Learning, Data Science, and Data Mining teach students how to train intelligent systems and extract insights from large datasets."
+    },
+    {
+      "index": 7,
+      "heading": "Core Course Areas > Computer Vision and Natural Language Processing",
+      "char_count": 248,
+      "text": "Core Course Areas > Computer Vision and Natural Language Processing\nStudents study AI fields dealing with images and language through courses in Pattern Recognition, Image Processing, Large Language Models, Deep Learning, and Information Retrieval."
+    },
+    {
+      "index": 8,
+      "heading": "Core Course Areas > Additional Technology Courses",
+      "char_count": 286,
+      "text": "Core Course Areas > Additional Technology Courses\nThe curriculum also includes Computer Networks and Cybersecurity, Embedded Systems (for implementing AI in hardware), Internet of Things and Blockchain, and Fuzzy Optimization, a method for handling uncertainty in optimization problems."
+    },
+    {
+      "index": 9,
+      "heading": "Industry Preparation and Electives",
+      "char_count": 582,
+      "text": "Industry Preparation and Electives\nFrom the 6th to 8th semesters, students choose electives that let them specialize based on current industry trends and their own interests. The 7th semester includes a dedicated Industry Preparation course covering professional and soft skills for job readiness. The 8th semester requires a mandatory internship, and the semester's course load is kept flexible to support this. The department has signed Memorandums of Understanding with AI and software companies in Nepal, including Fusemachines and Leapfrog, to help students secure internships."
+    },
+    {
+      "index": 10,
+      "heading": "Relevance of AI in Today's World",
+      "char_count": 555,
+      "text": "Relevance of AI in Today's World\nAI is a major driver of current technology, from autonomous vehicles and voice assistants to precision agriculture and predictive analytics, driven by growing data availability, computing power, and advances in machine learning. In Nepal specifically, AI has promising applications in smart healthcare diagnosis and treatment planning, agricultural tools for yield prediction and pest detection, natural language interfaces for local languages and dialects, and predictive analytics for disaster management and governance."
+    },
+    {
+      "index": 11,
+      "heading": "Scope of AI in Nepal",
+      "char_count": 551,
+      "text": "Scope of AI in Nepal\nNepal's AI ecosystem is still developing but shows promise across several areas: e-governance (automating administrative processes and citizen services), education technology (adaptive learning and intelligent tutoring systems), agriculture (crop health monitoring and smart irrigation), natural language processing (Nepali-English translation and voice assistants), computer vision (facial recognition and manufacturing quality inspection), and software automation (predictive analytics and workflow optimization for businesses)."
+    },
+    {
+      "index": 12,
+      "heading": "AI Companies in Nepal",
+      "char_count": 637,
+      "text": "AI Companies in Nepal\nSeveral companies are active in Nepal's AI and software space: Fusemachines Nepal (AI education, NLP, and AI-powered solutions), Leapfrog Technology (AI integration in healthcare and enterprise software), Cotiviti Nepal (data analytics and machine learning at scale), LogPoint (security analytics using machine learning), CloudFactory (human-in-the-loop AI services and data labeling), GrowByData (e-commerce data analytics and AI tools), Neema Academy (AI-based education technology), Rumsan (blockchain and data-driven digital solutions), and Ingrails (AI integration in school management and enterprise systems)."
+    },
+    {
+      "index": 13,
+      "heading": "Career Opportunities",
+      "char_count": 495,
+      "text": "Career Opportunities\nGraduates of the BTech in AI program can pursue roles including AI Engineer, Data Scientist, Machine Learning Engineer, Computer Vision Engineer, NLP Researcher, Robotics Engineer, Business Intelligence Analyst, AI Product Manager, AI Consultant, and Research Associate in AI and Data Science. Beyond industry and academic paths, graduates are also eligible to apply for officer-level government positions through the Public Service Commission (Lok Sewa Aayog) examinations."
+    },
+    {
+      "index": 14,
+      "heading": "Further Education",
+      "char_count": 741,
+      "text": "Further Education\nThe Department of Artificial Intelligence offers two postgraduate programs for BTech AI graduates and others. The MTech in AI is designed for students who have completed a four-year bachelor's degree in fields such as Computer Science, Information Technology, Electronics, or Software Engineering. The Master's in AI Application is open to students from any academic background who have completed a four-year bachelor's degree, or a three-year bachelor's degree plus a one-year bridge course, and focuses on practical applications of AI across different domains. Students can also pursue further studies in related fields such as Computer Science, Data Science, or Management, either within Nepal or at universities abroad."
+    }
+  ]
+}

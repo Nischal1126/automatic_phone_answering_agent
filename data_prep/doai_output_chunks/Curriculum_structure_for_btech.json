@@ -1,0 +1,70 @@
+{
+  "file": "Curriculum_structure_for_btech.md",
+  "frontmatter": {
+    "title": "BTech in Artificial Intelligence \u2014 Curriculum by Semester",
+    "source_type": "KU website",
+    "category": "academic_program",
+    "department": "Artificial Intelligence",
+    "degree_level": "undergraduate",
+    "academic_year": "2026/2027",
+    "last_updated": "2026-07-25"
+  },
+  "chunk_count": 9,
+  "warning": null,
+  "chunks": [
+    {
+      "index": 0,
+      "heading": "Program Credit Summary",
+      "char_count": 143,
+      "text": "Program Credit Summary\nThe BTech in Artificial Intelligence program requires a total of 129 credits, completed across 8 semesters over 4 years."
+    },
+    {
+      "index": 1,
+      "heading": "Year 1, Semester 1",
+      "char_count": 279,
+      "text": "Year 1, Semester 1\nTotal credit for this semester: 18. Courses: AICC101 Introduction to Intelligent Systems; AIPC101 Introduction to Programming; AIMA101 Calculus; AIMA102 Probability and Statistics; AIME101 Ethics and Professional Conduct; AIMC101 Advanced Communication Skills."
+    },
+    {
+      "index": 2,
+      "heading": "Year 1, Semester 2",
+      "char_count": 264,
+      "text": "Year 1, Semester 2\nTotal credit for this semester: 17. Courses: AIPC102 Object-Oriented Programming; AICS101 Data Structures and Algorithms; AIMA103 Discrete Structures; AIMA104 Linear Algebra; AICC102 Introduction to Cognitive Science; AISP121 Semester Project I."
+    },
+    {
+      "index": 3,
+      "heading": "Year 2, Semester 1",
+      "char_count": 275,
+      "text": "Year 2, Semester 1\nTotal credit for this semester: 17. Courses: AICS201 Database Management Systems; AICS202 Design and Analysis of Algorithms; AICC201 Artificial Intelligence; AICC202 Introduction to Data Science; AIMA201 Differential Equations; AISP211 Semester Project II."
+    },
+    {
+      "index": 4,
+      "heading": "Year 2, Semester 2",
+      "char_count": 259,
+      "text": "Year 2, Semester 2\nTotal credit for this semester: 17. Courses: AICS203 Software Engineering; AIMA202 Optimization Theory; AIMA203 Numerical Methods; AICC203 Introduction to Machine Learning; AIPC201 Programming Paradigms for AI; AISP222 Semester Project III."
+    },
+    {
+      "index": 5,
+      "heading": "Year 3, Semester 1",
+      "char_count": 257,
+      "text": "Year 3, Semester 1\nTotal credit for this semester: 17. Courses: AICC302 Pattern Recognition; AICC301 Data Mining; AICL318 Cloud Computing and AI; AICS301 Computer Networks and Cyber Security; AIMI301 Innovative Entrepreneurship; AISP311 Semester Project IV."
+    },
+    {
+      "index": 6,
+      "heading": "Year 3, Semester 2",
+      "char_count": 290,
+      "text": "Year 3, Semester 2\nTotal credit for this semester: 16. Courses: AICC303 Advanced Machine Learning; AICL311 Image Processing; AICL316 (Elective) Information Retrieval; AICL317 (Elective) Embedded Systems; AISP322 Semester Project V; AISM311 Seminar; AIMA331 Advanced Calculus and Statistics."
+    },
+    {
+      "index": 7,
+      "heading": "Year 4, Semester 1",
+      "char_count": 244,
+      "text": "Year 4, Semester 1\nTotal credit for this semester: 15. Courses: AICC401 Deep Learning; AIMA431 Fuzzy Network and Sequencing; AICL434 Large Language Models; AICL460 IoT and Blockchain; AIIN411 Industrial Preparation; AISP411 Semester Project VI."
+    },
+    {
+      "index": 8,
+      "heading": "Year 4, Semester 2",
+      "char_count": 172,
+      "text": "Year 4, Semester 2\nTotal credit for this semester: 12. Courses: Elective VII (AICL), 3 credits; AIMS401 AI and Society, 3 credits; AIIN412 Industrial Internship, 6 credits."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "file": "Fee_stucture_btech_info.md",
+  "frontmatter": {
+    "title": "Fee Structure  Kathmandu University",
+    "source_type": "KU website",
+    "degree_level": "Undergraduate",
+    "category": "Fee structure",
+    "last_updated": "2026-07-25",
+    "academic_year": "2026/2027"
+  },
+  "chunk_count": 7,
+  "warning": null,
+  "chunks": [
+    {
+      "index": 0,
+      "heading": "Overview",
+      "char_count": 222,
+      "text": "Overview\nThis fee structure covers BTech tuition, showing the current fiscal year's fee along with recent years for reference, and separate rates for Nepalese and international students. The current fiscal year is 2082/83."
+    },
+    {
+      "index": 1,
+      "heading": "Fee Structure for Nepalese Students > Fiscal Year 2082/83 (Current Fee)",
+      "char_count": 137,
+      "text": "Fee Structure for Nepalese Students > Fiscal Year 2082/83 (Current Fee)\nThe current BTech fee for the 2082/83 fiscal year is Rs 9,60,000."
+    },
+    {
+      "index": 2,
+      "heading": "Fee Structure for Nepalese Students > Fiscal Year 2081/82",
+      "char_count": 116,
+      "text": "Fee Structure for Nepalese Students > Fiscal Year 2081/82\nThe BTech fee for the 2081/82 fiscal year was Rs 9,15,000."
+    },
+    {
+      "index": 3,
+      "heading": "Fee Structure for Nepalese Students > Fiscal Year 2079/80",
+      "char_count": 116,
+      "text": "Fee Structure for Nepalese Students > Fiscal Year 2079/80\nThe BTech fee for the 2079/80 fiscal year was Rs 8,50,000."
+    },
+    {
+      "index": 4,
+      "heading": "Fee Structure for Nepalese Students > Fiscal Year 2078/79",
+      "char_count": 116,
+      "text": "Fee Structure for Nepalese Students > Fiscal Year 2078/79\nThe BTech fee for the 2078/79 fiscal year was Rs 8,00,000."
+    },
+    {
+      "index": 5,
+      "heading": "Fee Structure for International Students > SAARC Countries",
+      "char_count": 153,
+      "text": "Fee Structure for International Students > SAARC Countries\nApplicants from SAARC countries pay 1.5 times the fee charged to domestic (Nepalese) students."
+    },
+    {
+      "index": 6,
+      "heading": "Fee Structure for International Students > Non-SAARC Countries",
+      "char_count": 162,
+      "text": "Fee Structure for International Students > Non-SAARC Countries\nApplicants from countries outside SAARC pay double the fee charged to domestic (Nepalese) students."
+    }
+  ]
+}

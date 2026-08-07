@@ -1,0 +1,26 @@
+{
+  "file": ".....",
+  "frontmatter": {
+    "title": "Registration and Certification — Kathmandu University",
+    "source_type": "KU website",
+    "degree_level": "Graduate and Undergraduate",
+    "last_updated": "2026-08-06",
+    "category": "Registration and Certification"
+  },
+  "chunk_count": 2,
+  "warning": null,
+  "chunks": [
+    {
+      "index": 0,
+      "heading": "Online registration and certification and transcripts",
+      "char_count": 223,
+      "text": "Online registration and certification or \nStudents can apply online through the Kathmandu University Registration and Certification Portal using their university registration number to access registration and certification services."
+    },
+    {
+      "index": 1,
+      "heading": "Office visit",
+      "char_count": 181,
+      "text": "Office visit\nStudents who prefer to apply in person can visit the Office of the Controller of Examinations at the Kathmandu University central campus in Dhulikhel for registration and certification services."
+    }
+  ]
+}

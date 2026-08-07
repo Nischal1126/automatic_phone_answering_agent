@@ -1,0 +1,38 @@
+{
+  "file": "..",
+  "frontmatter": {
+    "title": "About the Department of Artificial Intelligence — Kathmandu University",
+    "source_type": "Department Brochure",
+    "degree_level": "Graduate and undergraduate",
+    "last_updated": "2026-08-06",
+    "category": "Department Information"
+  },
+  "chunk_count": 4,
+  "warning": null,
+  "chunks": [
+    {
+      "index": 0,
+      "heading": "About the Department",
+      "char_count": 322,
+      "text": "About the Department\nThe Department of Artificial Intelligence at Kathmandu University focuses on education, research, and innovation in the field of artificial intelligence. The department aims to develop skilled professionals capable of designing and deploying intelligent systems to solve real-world problems through quality teaching, practical learning, and research."
+    },
+    {
+      "index": 1,
+      "heading": "Academic programs",
+      "char_count": 239,
+      "text": "Academic programs\nThe department offers undergraduate, postgraduate, and research programs in artificial intelligence. The curriculum combines strong theoretical foundations with practical applications, laboratory work, and hands-on projects to prepare students for academic and professional careers."
+    },
+    {
+      "index": 2,
+      "heading": "Areas of study",
+      "char_count": 299,
+      "text": "Areas of study\nMajor areas of study include machine learning, deep learning, natural language processing, computer vision, robotics, and AI ethics. The department promotes interdisciplinary learning and prepares graduates to contribute to sectors such as healthcare, finance, education, and technology."
+    },
+    {
+      "index": 3,
+      "heading": "Research and collaboration",
+      "char_count": 272,
+      "text": "Research and collaboration\nThe department places strong emphasis on research and innovation. It collaborates with national and international academic institutions and industry partners, providing students with opportunities to participate in innovative research projects and develop cutting-edge AI solutions."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "file": "Curriculum_structure_for_mtech.md",
+  "frontmatter": {
+    "title": "MTech in Artificial Intelligence \u2014 Course Catalog by Cluster",
+    "source_type": "KU website",
+    "category": "academic_program",
+    "department": "Artificial Intelligence",
+    "degree_level": "graduate",
+    "last_updated": "2026-07-25"
+  },
+  "chunk_count": 7,
+  "warning": null,
+  "chunks": [
+    {
+      "index": 0,
+      "heading": "Overview",
+      "char_count": 649,
+      "text": "Overview\nCourses for the MTech in Artificial Intelligence are organized into five subject clusters: Core, Application, Mathematical Analysis, Research Work, and Guided Course. Credit values written as \"2+1\" mean 2 lecture credits plus 1 lab or practical credit, for a total of 3 credits; other courses list a single flat credit value. This catalog lists available subjects only \u2014 it does not specify which courses are mandatory, how many credits must be taken from each cluster, or the total credits required to graduate, so that information should be confirmed separately with the department before being used to answer degree-completion questions."
+    },
+    {
+      "index": 1,
+      "heading": "Artificial Intelligence Core Cluster (AICC)",
+      "char_count": 399,
+      "text": "Artificial Intelligence Core Cluster (AICC)\n- AICC500 Artificial Intelligence \u2014 3 credits (2 lecture + 1 lab)\n- AICC501 Machine Learning \u2014 3 credits (2 lecture + 1 lab)\n- AICC502 Data Analytics \u2014 3 credits (2 lecture + 1 lab)\n- AICC503 Computational Intelligence \u2014 3 credits (2 lecture + 1 lab)\n- AICC504 Deep Neural Networks \u2014 3 credits (2 lecture + 1 lab)\n- AICC505 Intelligent Systems \u2014 3 credits"
+    },
+    {
+      "index": 2,
+      "heading": "Artificial Intelligence Application Cluster (AIAC)",
+      "char_count": 851,
+      "text": "Artificial Intelligence Application Cluster (AIAC)\n- AIAC530 Big Data Analytics (covering bio, health, wireless sensor networks, social networks, and financial time series analysis) \u2014 3 credits\n- AIAC531 Deep Learning \u2014 3 credits (2 lecture + 1 lab)\n- AIAC532 Internet of Things (covering Internet of Vehicles, Internet of Health, and Internet of People) \u2014 3 credits\n- AIAC533 Evolutionary Computation \u2014 3 credits\n- AIAC534 Computer Vision \u2014 3 credits (2 lecture + 1 lab)\n- AIAC535 Image Processing \u2014 3 credits (2 lecture + 1 lab)\n- AIAC536 Natural Language Processing \u2014 3 credits (2 lecture + 1 lab)\n- AIAC537 Recommendation Systems \u2014 3 credits (2 lecture + 1 lab)\n- AIAC538 Intelligent Information Retrieval \u2014 3 credits (2 lecture + 1 lab)\n- AIAC539 Knowledge Representation and Reasoning \u2014 3 credits\n- AIAC550 Expert System Design \u2014 3 credits (2 le"
+    },
+    {
+      "index": 3,
+      "heading": "Artificial Intelligence Application Cluster (AIAC)",
+      "char_count": 495,
+      "text": "Artificial Intelligence Application Cluster (AIAC)\nKnowledge Representation and Reasoning \u2014 3 credits\n- AIAC550 Expert System Design \u2014 3 credits (2 lecture + 1 lab)\n- AIAC551 Robotic Design \u2014 3 credits (2 lecture + 1 lab)\n- AIAC552 Human Computer Interaction \u2014 3 credits\n- AIAC553 Software Design \u2014 3 credits (2 lecture + 1 lab)\n- AIAC554 Problem Solving Agents \u2014 3 credits\n- AIAC555 Predictive Modeling \u2014 3 credits (2 lecture + 1 lab)\n- AIAC556 Quantum Computing \u2014 3 credits (2 lecture + 1 lab)"
+    },
+    {
+      "index": 4,
+      "heading": "Artificial Intelligence Mathematical Analysis Cluster (AIMA)",
+      "char_count": 427,
+      "text": "Artificial Intelligence Mathematical Analysis Cluster (AIMA)\n- AIMA500 Computational Statistics and Probability \u2014 3 credits\n- AIMA501 Statistical Methods for AI Applications \u2014 3 credits\n- AIMA502 Probabilistic Graphical Models \u2014 3 credits\n- AIMA503 Fuzzy Systems \u2014 3 credits\n- AIMA504 Discrete Multivariate Modeling \u2014 3 credits\n- AIMA505 Computational Numerical Methods \u2014 3 credits\n- AIMA506 Optimization Techniques \u2014 3 credits"
+    },
+    {
+      "index": 5,
+      "heading": "Artificial Intelligence Research Work Cluster (AIRW)",
+      "char_count": 292,
+      "text": "Artificial Intelligence Research Work Cluster (AIRW)\n- AIRW530 Research Techniques for Computer Science \u2014 3 credits\n- AIRW531 Topics in Data Science \u2014 3 credits\n- AIRW532 AI and Society \u2014 3 credits\n- AIRW533 Topics in AI \u2014 3 credits\n- AIRW621 Seminar \u2014 3 credits\n- AIRW699 Thesis \u2014 15 credits"
+    },
+    {
+      "index": 6,
+      "heading": "Artificial Intelligence Guided Course Cluster (AIGC)",
+      "char_count": 88,
+      "text": "Artificial Intelligence Guided Course Cluster (AIGC)\n- AIGC651 Guided Course \u2014 3 credits"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "file": "contract_info.md",
+  "frontmatter": {
+    "title": "Contact Information - Kathmandu University",
+    "source_type": "KU website",
+    "degree_level": "Graduate and Postgraduate",
+    "last_updated": "2026-07-25",
+    "category": "contact"
+  },
+  "chunk_count": 6,
+  "warning": null,
+  "chunks": [
+    {
+      "index": 0,
+      "heading": "Department of Artificial Intelligence",
+      "char_count": 140,
+      "text": "Department of Artificial Intelligence\n- Address: Dhulikhel, Kavre\n- Phone: +977-11-499429\n- Email: ai_office@ku.edu.np\n- Fax: +977-11-415011"
+    },
+    {
+      "index": 1,
+      "heading": "School of Engineering",
+      "char_count": 136,
+      "text": "School of Engineering\n- Address: Dhulikhel, Kavre\n- Phone: +977-11-415100\n- Email: soe_office@ku.edu.np\n- Website: https://soe.ku.edu.np"
+    },
+    {
+      "index": 2,
+      "heading": "Kathmandu University (Main)",
+      "char_count": 191,
+      "text": "Kathmandu University (Main)\n- Address: Dhulikhel, Nepal\n- P.O. Box: 6250\n- Phone: +977-11-415100, +977-11-415200, +977-9801210035, +977-11-415005\n- Fax: +977-11-415011\n- Email: info@ku.edu.np"
+    },
+    {
+      "index": 3,
+      "heading": "Central Library",
+      "char_count": 148,
+      "text": "Central Library\n- Phone: +977-11-415100, +977-11-415200, +977-9801210035, +977-11-415005 (university switchboard)\n- Email: central_library@ku.edu.np"
+    },
+    {
+      "index": 4,
+      "heading": "Accounts Office",
+      "char_count": 143,
+      "text": "Accounts Office\n- Phone: +977-11-415100, +977-11-415200, +977-9801210035, +977-11-415005 (university switchboard)\n- Email: kufinanace@ku.edu.np"
+    },
+    {
+      "index": 5,
+      "heading": "Contract Available time",
+      "char_count": 76,
+      "text": "Contract Available time\nphone available from 9:30 AM - 4 PM, Monday - Friday"
+    }
+  ]
+}

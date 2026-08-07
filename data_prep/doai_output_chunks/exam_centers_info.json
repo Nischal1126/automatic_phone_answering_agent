@@ -1,0 +1,21 @@
+{
+  "file": "exam_centers_info.md",
+  "frontmatter": {
+    "title": "KUCAT-CBT 2026 \u2014 Test Centers",
+    "source_type": "KU website",
+    "degree_level": "Graduate",
+    "last_updated": "2026-07-25",
+    "category": "Entrance exam centers",
+    "academic_year": "2026/2027"
+  },
+  "chunk_count": 1,
+  "warning": null,
+  "chunks": [
+    {
+      "index": 0,
+      "heading": "Test Centers",
+      "char_count": 220,
+      "text": "Test Centers\nKUCAT-CBT 2026 is conducted at five centers: Lalitpur, Dhulikhel, Biratnagar, Butwal, and Pokhara. The test is computer-based and is not available online \u2014 it must be taken in person at one of these centers."
+    }
+  ]
+}

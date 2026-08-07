@@ -1,0 +1,38 @@
+{
+  "file": "scholorship_info.md",
+  "frontmatter": {
+    "title": "Scholorship \u2014 Kathmandu University",
+    "source_type": "KU website",
+    "degree_level": "Graduate and Postgraduate",
+    "last_updated": "2026-07-25",
+    "category": "Scholarship or Financial Support"
+  },
+  "chunk_count": 4,
+  "warning": null,
+  "chunks": [
+    {
+      "index": 0,
+      "heading": "For Undergraduate/Bachelor students > KU SOE Scholarship",
+      "char_count": 677,
+      "text": "For Undergraduate/Bachelor students > KU SOE Scholarship\nKU SOE Scholarship is focused for meritorious and needy (economically weak) students enrolled in KU UNG programs. For each 30 fee paying students, ONE student will be admitted on full or partial scholarship(equivalent to the fee of one student). This scholarship is provided to the first year students at the time of admission, first time on need basis and then based on their academic performance, after annual review. They need to maintain a minimum total GPA of 3.0 to continue in each academic year. Also, it will not be regular for students who have to appear compartmental exams and who do not maintain discipline."
+    },
+    {
+      "index": 1,
+      "heading": "For Undergraduate/Bachelor students > KU Educational Loan",
+      "char_count": 669,
+      "text": "For Undergraduate/Bachelor students > KU Educational Loan\nUnder this category, an educational loan will be provided to the selected students enabling them to meet 25% to 50% of total fees charged by the University. This educational loan depends on the availability of fund in each UNG program of SOE as per KU rule. The student must sign a contract paper with the University (as a bond paper) for its refund. Other conditions are same as that in KU scholarship. The number of educational loans offered in this scheme depends upon the available loan scholarship fund which in turn is dependent on the return/payment of the loan received by students in the earlier years."
+    },
+    {
+      "index": 2,
+      "heading": "For Undergraduate/Bachelor students > How to Apply for a Scholarship or Financial Support",
+      "char_count": 699,
+      "text": "For Undergraduate/Bachelor students > How to Apply for a Scholarship or Financial Support\nGeneral information about scholarships and financial support is announced during the admission period, and the application form is distributed as part of online admission. Applicants must submit the completed form along with all required supporting documents, as specified in the Financial Support Scheme form. An interview is held for applicants during the admission period, and the decision on whether a scholarship or financial support is awarded is made before the candidate is admitted to the program. The university reserves the right to select the most appropriate candidates from among all applicants."
+    },
+    {
+      "index": 3,
+      "heading": "For Graduate/Master students > KU Graduate Assistantship:",
+      "char_count": 291,
+      "text": "For Graduate/Master students > KU Graduate Assistantship:\nThis assistantship is focused for M. Tech./M.S. by research, M. Phil. and Ph.D. students of SoE based on their academic performance. In this category, a student is provided teaching assistantship to cover partial or full tuition fee."
+    }
+  ]
+}

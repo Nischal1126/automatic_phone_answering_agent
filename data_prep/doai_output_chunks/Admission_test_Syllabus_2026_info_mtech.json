@@ -1,0 +1,51 @@
+{
+  "file": "Admission_test_Syllabus_2026_info_mtech.md",
+  "frontmatter": {
+    "title": "KUCAT-CBT 2026 Syllabus",
+    "degree_level": "Graduate",
+    "source_type": "KU website",
+    "last_updated": "2026-07-25",
+    "category": "entrance_exam Syllabus",
+    "academic_year": "2026/2027"
+  },
+  "chunk_count": 6,
+  "warning": null,
+  "chunks": [
+    {
+      "index": 0,
+      "heading": "Admission Test Syllabus for MTech in AI > Programming",
+      "char_count": 275,
+      "text": "Admission Test Syllabus for MTech in AI > Programming\nCovers basic structured programming concepts, including data types and operators, as well as Object-Oriented Programming concepts such as objects, classes, inheritance, and polymorphism."
+    },
+    {
+      "index": 1,
+      "heading": "Admission Test Syllabus for MTech in AI > Data Structures and Algorithms",
+      "char_count": 188,
+      "text": "Admission Test Syllabus for MTech in AI > Data Structures and Algorithms\nCovers stacks, queues, lists, hash tables, and sorting and searching algorithms."
+    },
+    {
+      "index": 2,
+      "heading": "Admission Test Syllabus for MTech in AI > Database Manage nt Systems",
+      "char_count": 187,
+      "text": "Admission Test Syllabus for MTech in AI > Database Manage nt Systems\nCovers relational database concepts, ER diagrams, normalization, and transactions."
+    },
+    {
+      "index": 3,
+      "heading": "Admission Test Syllabus for MTech in AI > Software Engineering",
+      "char_count": 167,
+      "text": "Admission Test Syllabus for MTech in AI > Software Engineering\nCovers software process models, planning and scheduling, and testing."
+    },
+    {
+      "index": 4,
+      "heading": "Admission Test Syllabus for MTech in AI > Artificial Intelligence",
+      "char_count": 172,
+      "text": "Admission Test Syllabus for MTech in AI > Artificial Intelligence\nCovers problem solving through search, logic, and current trends in AI."
+    },
+    {
+      "index": 5,
+      "heading": "Admission Test Syllabus for MTech in AI > Computer Networks",
+      "char_count": 233,
+      "text": "Admission Test Syllabus for MTech in AI > Computer Networks\nCovers the basics of computer networks, TCP/IP, the physical layer, the network layer, the data link layer, and concepts of IP addressing."
+    }
+  ]
+}

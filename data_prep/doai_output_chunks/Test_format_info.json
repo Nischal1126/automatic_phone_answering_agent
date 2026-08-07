@@ -1,0 +1,57 @@
+{
+  "file": "Test_format_info.md",
+  "frontmatter": {
+    "title": "KUCAT-CBT 2026 \u2014 Test Format",
+    "source_type": "KU website",
+    "degree_level": "Undergraduate",
+    "last_updated": "2026-07-25",
+    "category": "Entrance exam Format for 2026",
+    "academic_year": "2026/2027"
+  },
+  "chunk_count": 7,
+  "warning": null,
+  "chunks": [
+    {
+      "index": 0,
+      "heading": "Test Centers",
+      "char_count": 220,
+      "text": "Test Centers\nKUCAT-CBT 2026 is conducted at five centers: Lalitpur, Dhulikhel, Biratnagar, Butwal, and Pokhara. The test is computer-based and is not available online \u2014 it must be taken in person at one of these centers."
+    },
+    {
+      "index": 1,
+      "heading": "Test Format Overview",
+      "char_count": 537,
+      "text": "Test Format Overview\nThe KUCAT-CBT lasts two hours in total and contains 120 multiple-choice questions. The test is split into three parts \u2014 one for each subject in the candidate's chosen stream (PCM or PCB) \u2014 with 40 questions per part. Each subject's syllabus has 40 topics, and exactly one question is asked per topic. Candidates cannot skip a question or return to one already submitted, but they can freely switch between the three subject parts at any time during the test. Scores are shown to the candidate at the end of the test."
+    },
+    {
+      "index": 2,
+      "heading": "Adaptive Difficulty and Scoring",
+      "char_count": 662,
+      "text": "Adaptive Difficulty and Scoring\nEach part of the test starts with a difficulty level 1 question. Answering a question correctly raises the difficulty of the next question by one level; answering incorrectly lowers it by one level. Difficulty level 5 (the hardest) doesn't increase further after a correct answer, and difficulty level 1 (the easiest) doesn't decrease further after an incorrect answer.\n\nEach correct answer adds points based on the question's difficulty level:\n \n- Level 1: 11 points\n- Level 2: 13 points\n- Level 3: 15 points\n- Level 4: 17 points\n- Level 5: 19 points\nA candidate's score starts at zero, and total CBT scores range from 0 to 2220."
+    },
+    {
+      "index": 3,
+      "heading": "Exam Day Rules and Procedure",
+      "char_count": 726,
+      "text": "Exam Day Rules and Procedure\nCandidates must arrive at least 30 minutes before their test's scheduled start time. Arriving late shortens the candidate's available time \u2014 the two-hour limit is not extended for latecomers for any reason. Candidates must bring their color-printed admission card and the original identification document used during application; scanned copies, printouts, or photos of the ID are not accepted as valid originals.\n \nPersonal calculators are not allowed; a calculator is available on the test computer if needed. Only pens and pencils may be brought into the test room \u2014 no other electronic devices or writing materials are permitted, and mobile phones and wireless devices are strictly prohibited."
+    },
+    {
+      "index": 4,
+      "heading": "Exam Day Rules and Procedure",
+      "char_count": 776,
+      "text": "Exam Day Rules and Procedure\nor writing materials are permitted, and mobile phones and wireless devices are strictly prohibited. Bags and personal belongings must be left at the assigned area outside the testing area before candidates take their seats.\n \nOnce seated, candidates log in with credentials provided after ID verification, confirm their name on screen, and choose which of the three subjects to start with \u2014 the timer begins as soon as a subject is selected. Candidates having difficulty during the test should raise their hand to call an invigilator, and may not communicate with or look at other candidates' screens. Restroom breaks are only allowed starting 30 minutes after the test begins, and must be completed at least 15 minutes before the test's end time."
+    },
+    {
+      "index": 5,
+      "heading": "Exam Day Rules and Procedure",
+      "char_count": 431,
+      "text": "Exam Day Rules and Procedure\nminutes after the test begins, and must be completed at least 15 minutes before the test's end time. After finishing, candidates must show their results on screen to an invigilator, who records the score manually and has the candidate sign it before logging out.\n \nAttempting to cheat, or failing to follow invigilator instructions or exam rules, results in disqualification from the admission process."
+    },
+    {
+      "index": 6,
+      "heading": "One Application, One Attempt Rule",
+      "char_count": 314,
+      "text": "One Application, One Attempt Rule\nEach candidate may submit only one application and take the KUCAT-CBT only once. If a candidate is found to have submitted multiple applications, or appears for the test more than once, all of their exam attempts are cancelled and they are disqualified from the admission process."
+    }
+  ]
+}
